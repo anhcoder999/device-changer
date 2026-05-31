@@ -1,0 +1,1370 @@
+[
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.1234.56 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-G996B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.9876.32 Mobile Safari/537.36",
+    "screen": { "width": 384, "height": 854, "availWidth": 384, "availHeight": 854, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.21 Mobile Safari/537.36",
+    "screen": { "width": 384, "height": 854, "availWidth": 384, "availHeight": 854, "devicePixelRatio": 4 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A536B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.8765.43 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A536U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.2345.67 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.1234.12 Mobile Safari/537.36",
+    "screen": { "width": 384, "height": 854, "availWidth": 384, "availHeight": 854, "devicePixelRatio": 3.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-S906B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.7654.89 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-N986B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.3456.78 Mobile Safari/537.36",
+    "screen": { "width": 412, "height": 915, "availWidth": 412, "availHeight": 915, "devicePixelRatio": 3.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-N981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.2345.12 Mobile Safari/537.36",
+    "screen": { "width": 393, "height": 873, "availWidth": 393, "availHeight": 873, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A736B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5678.34 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A715F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.9876.12 Mobile Safari/537.36",
+    "screen": { "width": 412, "height": 915, "availWidth": 412, "availHeight": 915, "devicePixelRatio": 2.625 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-G991U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.4321.65 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A536F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.8765.32 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A725F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.1234.78 Mobile Safari/537.36",
+    "screen": { "width": 412, "height": 915, "availWidth": 412, "availHeight": 915, "devicePixelRatio": 2.625 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S918U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6543.21 Mobile Safari/537.36",
+    "screen": { "width": 384, "height": 854, "availWidth": 384, "availHeight": 854, "devicePixelRatio": 3.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-G996U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.3456.98 Mobile Safari/537.36",
+    "screen": { "width": 384, "height": 854, "availWidth": 384, "availHeight": 854, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-N985F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.8765.21 Mobile Safari/537.36",
+    "screen": { "width": 412, "height": 915, "availWidth": 412, "availHeight": 915, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-N981U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.5432.12 Mobile Safari/537.36",
+    "screen": { "width": 393, "height": 873, "availWidth": 393, "availHeight": 873, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A736F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.2345.65 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A715U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.9876.43 Mobile Safari/537.36",
+    "screen": { "width": 412, "height": 915, "availWidth": 412, "availHeight": 915, "devicePixelRatio": 2.625 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-G998U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.12 Mobile Safari/537.36",
+    "screen": { "width": 384, "height": 854, "availWidth": 384, "availHeight": 854, "devicePixelRatio": 4 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A736U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.2345.67 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S920B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.1234.98 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-N986U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.3456.12 Mobile Safari/537.36",
+    "screen": { "width": 412, "height": 915, "availWidth": 412, "availHeight": 915, "devicePixelRatio": 3.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-N981F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.8765.43 Mobile Safari/537.36",
+    "screen": { "width": 393, "height": 873, "availWidth": 393, "availHeight": 873, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S920U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.9876.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-G990B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.2345.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-G995B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.9876.43 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A737B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.5432.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.7654.21 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-N987B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.4321.12 Mobile Safari/537.36",
+    "screen": { "width": 412, "height": 915, "availWidth": 412, "availHeight": 915, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-N980B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.9876.32 Mobile Safari/537.36",
+    "screen": { "width": 393, "height": 873, "availWidth": 393, "availHeight": 873, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-G997B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.2345.67 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A738B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.8765.43 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A727B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7654.21 Mobile Safari/537.36",
+    "screen": { "width": 412, "height": 915, "availWidth": 412, "availHeight": 915, "devicePixelRatio": 2.625 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S922B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.1234.56 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-G989B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.8765.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-G988B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.5432.98 Mobile Safari/537.36",
+    "screen": { "width": 384, "height": 854, "availWidth": 384, "availHeight": 854, "devicePixelRatio": 4 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-N988B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.2345.34 Mobile Safari/537.36",
+    "screen": { "width": 412, "height": 915, "availWidth": 412, "availHeight": 915, "devicePixelRatio": 3.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A739B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7654.21 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A728B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.4321.65 Mobile Safari/537.36",
+    "screen": { "width": 412, "height": 915, "availWidth": 412, "availHeight": 915, "devicePixelRatio": 2.625 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S923B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6543.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-G999B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.9876.21 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-N989B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.5432.12 Mobile Safari/537.36",
+    "screen": { "width": 412, "height": 915, "availWidth": 412, "availHeight": 915, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-N982B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.2345.87 Mobile Safari/537.36",
+    "screen": { "width": 393, "height": 873, "availWidth": 393, "availHeight": 873, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A740B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6543.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A729B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.9876.21 Mobile Safari/537.36",
+    "screen": { "width": 412, "height": 915, "availWidth": 412, "availHeight": 915, "devicePixelRatio": 2.625 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-G9910) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.34 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A741B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.2345.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A730B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.8765.43 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S924B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.4321.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-G992B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.1234.56 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-N990B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.9876.12 Mobile Safari/537.36",
+    "screen": { "width": 412, "height": 915, "availWidth": 412, "availHeight": 915, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-N983B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7654.21 Mobile Safari/537.36",
+    "screen": { "width": 393, "height": 873, "availWidth": 393, "availHeight": 873, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A742B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.4321.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A731B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.5432.87 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-G993B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.2345.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-N991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7654.21 Mobile Safari/537.36",
+    "screen": { "width": 412, "height": 915, "availWidth": 412, "availHeight": 915, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-N984B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.4321.12 Mobile Safari/537.36",
+    "screen": { "width": 393, "height": 873, "availWidth": 393, "availHeight": 873, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A743B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.9876.21 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A732B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.7654.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S925B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6543.34 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-G994B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.1234.21 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-N992B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.4321.12 Mobile Safari/537.36",
+    "screen": { "width": 412, "height": 915, "availWidth": 412, "availHeight": 915, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-N985B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.9876.12 Mobile Safari/537.36",
+    "screen": { "width": 393, "height": 873, "availWidth": 393, "availHeight": 873, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A744B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7654.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A733B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.2345.21 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-G995U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-N993B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.9876.34 Mobile Safari/537.36",
+    "screen": { "width": 412, "height": 915, "availWidth": 412, "availHeight": 915, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A745B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.2345.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A734B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.9876.43 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S926B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.4321.12 Mobile Safari/537.36",
+    "screen": { "width": 384, "height": 854, "availWidth": 384, "availHeight": 854, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-N994B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6543.12 Mobile Safari/537.36",
+    "screen": { "width": 412, "height": 915, "availWidth": 412, "availHeight": 915, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; RMX3511) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.2345.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; RMX3515) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.9876.34 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; RMX3521) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.21 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; RMX3525) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7654.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; RMX3531) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.1234.56 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; RMX3535) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.8765.21 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; RMX3541) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.2345.65 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; RMX3545) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; RMX3551) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.9876.34 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; RMX3555) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.5432.21 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; LG-F700L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.2345.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 640, "availWidth": 360, "availHeight": 640, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; LG-F800S) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.9876.34 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 640, "availWidth": 360, "availHeight": 640, "devicePixelRatio": 4 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; LG-F900K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.21 Mobile Safari/537.36",
+    "screen": { "width": 412, "height": 915, "availWidth": 412, "availHeight": 915, "devicePixelRatio": 3.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; LG-V500L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7654.12 Mobile Safari/537.36",
+    "screen": { "width": 600, "height": 960, "availWidth": 600, "availHeight": 960, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; LG-V600S) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.1234.56 Mobile Safari/537.36",
+    "screen": { "width": 412, "height": 915, "availWidth": 412, "availHeight": 915, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; LG-G710EMW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.8765.21 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 760, "availWidth": 360, "availHeight": 760, "devicePixelRatio": 4 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; LG-H870DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.2345.65 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 720, "availWidth": 360, "availHeight": 720, "devicePixelRatio": 4 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; LG-K500N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.12 Mobile Safari/537.36",
+    "screen": { "width": 320, "height": 568, "availWidth": 320, "availHeight": 568, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; LG-Q730L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.9876.34 Mobile Safari/537.36",
+    "screen": { "width": 384, "height": 854, "availWidth": 384, "availHeight": 854, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; LG-X210DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.5432.21 Mobile Safari/537.36",
+    "screen": { "width": 320, "height": 568, "availWidth": 320, "availHeight": 568, "devicePixelRatio": 1.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; HRY-AN10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.2345.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 780, "availWidth": 360, "availHeight": 780, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; HRY-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.9876.34 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 780, "availWidth": 360, "availHeight": 780, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; HRY-LX2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.21 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 780, "availWidth": 360, "availHeight": 780, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; HRY-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7654.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 780, "availWidth": 360, "availHeight": 780, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; HRY-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.1234.56 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 780, "availWidth": 360, "availHeight": 780, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; HRY-AL10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.8765.21 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 780, "availWidth": 360, "availHeight": 780, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; HRY-TL00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.2345.65 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 780, "availWidth": 360, "availHeight": 780, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; HRY-TL10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 780, "availWidth": 360, "availHeight": 780, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; HRY-LX1A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.9876.34 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 780, "availWidth": 360, "availHeight": 780, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; HRY-LX2A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.5432.21 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 780, "availWidth": 360, "availHeight": 780, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; GD1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.2345.12 Mobile Safari/537.36",
+    "screen": { "width": 393, "height": 851, "availWidth": 393, "availHeight": 851, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; GR1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.9876.34 Mobile Safari/537.36",
+    "screen": { "width": 393, "height": 851, "availWidth": 393, "availHeight": 851, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; GV1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.21 Mobile Safari/537.36",
+    "screen": { "width": 412, "height": 892, "availWidth": 412, "availHeight": 892, "devicePixelRatio": 3.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; GQ1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7654.12 Mobile Safari/537.36",
+    "screen": { "width": 393, "height": 851, "availWidth": 393, "availHeight": 851, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; GX1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.1234.56 Mobile Safari/537.36",
+    "screen": { "width": 412, "height": 892, "availWidth": 412, "availHeight": 892, "devicePixelRatio": 3.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; GZ1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.8765.21 Mobile Safari/537.36",
+    "screen": { "width": 412, "height": 892, "availWidth": 412, "availHeight": 892, "devicePixelRatio": 3.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; GJ1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.2345.65 Mobile Safari/537.36",
+    "screen": { "width": 393, "height": 851, "availWidth": 393, "availHeight": 851, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; GL1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.12 Mobile Safari/537.36",
+    "screen": { "width": 393, "height": 851, "availWidth": 393, "availHeight": 851, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; GM1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.9876.34 Mobile Safari/537.36",
+    "screen": { "width": 393, "height": 851, "availWidth": 393, "availHeight": 851, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; GN1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.5432.21 Mobile Safari/537.36",
+    "screen": { "width": 393, "height": 851, "availWidth": 393, "availHeight": 851, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; GP1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.4321.12 Mobile Safari/537.36",
+    "screen": { "width": 412, "height": 892, "availWidth": 412, "availHeight": 892, "devicePixelRatio": 3.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; GQ2YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6543.21 Mobile Safari/537.36",
+    "screen": { "width": 393, "height": 851, "availWidth": 393, "availHeight": 851, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; GR2YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.7654.12 Mobile Safari/537.36",
+    "screen": { "width": 393, "height": 851, "availWidth": 393, "availHeight": 851, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; GS1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.8765.34 Mobile Safari/537.36",
+    "screen": { "width": 393, "height": 851, "availWidth": 393, "availHeight": 851, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; GT1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.2345.21 Mobile Safari/537.36",
+    "screen": { "width": 412, "height": 892, "availWidth": 412, "availHeight": 892, "devicePixelRatio": 3.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; GU1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6543.12 Mobile Safari/537.36",
+    "screen": { "width": 393, "height": 851, "availWidth": 393, "availHeight": 851, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; GV2YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.8765.12 Mobile Safari/537.36",
+    "screen": { "width": 412, "height": 892, "availWidth": 412, "availHeight": 892, "devicePixelRatio": 3.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; GW1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.12 Mobile Safari/537.36",
+    "screen": { "width": 412, "height": 892, "availWidth": 412, "availHeight": 892, "devicePixelRatio": 3.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; GX2YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.9876.12 Mobile Safari/537.36",
+    "screen": { "width": 412, "height": 892, "availWidth": 412, "availHeight": 892, "devicePixelRatio": 3.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; GY1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6543.21 Mobile Safari/537.36",
+    "screen": { "width": 393, "height": 851, "availWidth": 393, "availHeight": 851, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; GZ2YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.34 Mobile Safari/537.36",
+    "screen": { "width": 412, "height": 892, "availWidth": 412, "availHeight": 892, "devicePixelRatio": 3.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; GA1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.4321.12 Mobile Safari/537.36",
+    "screen": { "width": 393, "height": 851, "availWidth": 393, "availHeight": 851, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; GB1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7654.21 Mobile Safari/537.36",
+    "screen": { "width": 393, "height": 851, "availWidth": 393, "availHeight": 851, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; GC1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.9876.12 Mobile Safari/537.36",
+    "screen": { "width": 393, "height": 851, "availWidth": 393, "availHeight": 851, "devicePixelRatio": 3 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2130) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.2345.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2150) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.9876.34 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2190) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.21 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2210) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7654.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; V2230) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.1234.56 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.8765.21 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2270) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.2345.65 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2290) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2310) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.9876.34 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2330) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.5432.21 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2350) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.4321.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2370) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6543.21 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; V2390) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.7654.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2410) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.8765.34 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2430) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.2345.21 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2450) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6543.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2470) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.8765.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2490) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2510) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.9876.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2530) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6543.21 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2550) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.34 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; V2570) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.4321.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2590) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7654.21 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2610) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.9876.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2630) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6543.21 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2650) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.4321.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2670) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.2345.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2690) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.8765.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2710) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6543.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; V2730) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.9876.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2750) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.5432.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2770) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7654.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2790) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.2345.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2810) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.8765.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2830) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.4321.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2850) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; V2870) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6543.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2890) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.9876.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2910) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7654.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2930) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.4321.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2950) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6543.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2970) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.9876.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2990) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V3010) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.5432.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V3030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.4321.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; V3050) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.9876.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; V3070) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.5432.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V3090) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7654.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V3110) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6543.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; V3130) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.4321.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2130BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.2345.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2150BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.9876.34 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2190BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.21 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2210BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7654.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; V2230BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.1234.56 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2250BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.8765.21 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2270BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.2345.65 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2290BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2310BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.9876.34 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2330BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.5432.21 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2350BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.4321.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2370BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6543.21 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; V2390BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.7654.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2410BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.8765.34 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2430BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.2345.21 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2450BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6543.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2470BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.8765.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2490BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2510BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.9876.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2530BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6543.21 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2550BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.34 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; V2570BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.4321.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2590BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7654.21 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2610BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.9876.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2630BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6543.21 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2650BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.4321.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2670BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.2345.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2690BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.8765.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2710BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6543.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; V2730BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.9876.12 Mobile Safari/537.36",
+    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; X6811) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.2345.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; X6871) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.9876.34 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; X6901) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.21 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; X6921) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7654.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; X6951) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.1234.56 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; X6971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.8765.21 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; X6991) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.2345.65 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; X7011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; X7031) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.9876.34 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; X7051) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.5432.21 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; X7071) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.4321.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; X7091) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6543.21 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; X7111) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.7654.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; X7131) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.8765.34 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; X7151) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.2345.21 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; X7171) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6543.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; X7191) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.8765.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; X7211) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; X7231) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.9876.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; X7251) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6543.21 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; X7271) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.34 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; X7291) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.4321.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; X7311) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7654.21 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; X7331) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.9876.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; X7351) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6543.21 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; X7371) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.4321.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; X7391) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.2345.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; X7411) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.8765.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; X7431) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6543.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; X7451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.9876.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; X7471) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.5432.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; X7491) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7654.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; X7511) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.2345.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; X7531) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.8765.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; X7551) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.4321.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; X7571) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; X7591) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6543.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; X7611) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.9876.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; X7631) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7654.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; X7651) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.4321.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; X7671) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6543.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; X7691) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.4321.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; X7711) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; X7731) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.2345.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; X7751) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.8765.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; X7771) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.5432.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; X7791) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.9876.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; X7811) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.4321.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; X7831) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7654.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; X7851) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.8765.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; X7871) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; X7891) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6543.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; X7911) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.9876.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; X7931) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6543.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; X7951) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.34 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; X7971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.4321.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; X7991) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.5432.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; X8011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7654.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; X8031) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.2345.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; X8051) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.8765.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; X8071) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6543.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; X8091) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.4321.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; X8111) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; X8131) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.9876.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; X8151) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7654.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; K101) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.2345.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; K103) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.9876.34 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; K105) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.21 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; K107) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7654.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; K109) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.1234.56 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; K111) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.8765.21 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; K113) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.2345.65 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; K115) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; K117) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.9876.34 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; K119) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.5432.21 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; K121) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.4321.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; K123) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6543.21 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; K125) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.7654.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; K127) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.8765.34 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; K129) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.2345.21 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; K131) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6543.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; K133) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.8765.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; K135) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; K137) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.9876.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; K139) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6543.21 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; K141) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.34 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; K143) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.4321.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; K145) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7654.21 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; K147) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.9876.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; K149) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6543.21 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; K151) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.4321.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; K153) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.2345.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; K155) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.8765.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; K157) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6543.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; K159) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.9876.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; K161) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.5432.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; K163) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7654.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; K165) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.2345.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; K167) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.8765.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; K169) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.4321.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; K171) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; K173) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6543.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; K175) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.9876.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; K177) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7654.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; K179) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.4321.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; K181) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6543.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; K183) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.4321.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; K185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; K187) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.2345.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; K189) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.8765.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; K191) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.5432.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; K193) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.9876.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; K195) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.4321.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; K197) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7654.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; K199) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.8765.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; K201) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; K203) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6543.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; K205) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.9876.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; K207) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6543.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; K209) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.34 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; K211) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.4321.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; K213) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.5432.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; K215) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7654.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; K217) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.2345.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; K219) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.8765.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; K221) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6543.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; K223) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.4321.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; K225) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; K227) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.9876.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; K229) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7654.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; K231) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.8765.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; K233) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.4321.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; K235) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6543.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; K237) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.9876.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; K239) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6543.12 Mobile Safari/537.36",
+    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
+  }
+]
