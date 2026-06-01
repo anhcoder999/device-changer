@@ -1,0 +1,3278 @@
+[
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2450) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6543.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "385\u00d7856 24-bit TrueColor (viewport: 385\u00d7765)",
+      "fullscreenLeakTest": "384\u00d7820",
+      "width": 385,
+      "height": 856,
+      "availWidth": 385,
+      "availHeight": 856,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.75,
+        "innerWidth": 384,
+        "innerHeight": 764,
+        "outerWidth": 385,
+        "outerHeight": 856
+      },
+      "div": { "clientWidth": 385, "clientHeight": 765 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; K169) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.4321.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 4,
+    "deviceMemory": 4,
+    "maxTouchPoints": 5,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.0,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A536F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.8765.32 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A736U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.2345.67 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "385\u00d7856 24-bit TrueColor (viewport: 385\u00d7765)",
+      "fullscreenLeakTest": "384\u00d7820",
+      "width": 385,
+      "height": 856,
+      "availWidth": 385,
+      "availHeight": 856,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 384,
+        "innerHeight": 764,
+        "outerWidth": 385,
+        "outerHeight": 856
+      },
+      "div": { "clientWidth": 385, "clientHeight": 765 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; X7031) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.9876.34 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.5,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; HRY-LX1A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.9876.34 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 4,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "360\u00d7780 24-bit TrueColor (viewport: 360\u00d7697)",
+      "fullscreenLeakTest": "359\u00d7744",
+      "width": 360,
+      "height": 780,
+      "availWidth": 360,
+      "availHeight": 780,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 359,
+        "innerHeight": 696,
+        "outerWidth": 360,
+        "outerHeight": 780
+      },
+      "div": { "clientWidth": 360, "clientHeight": 697 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2690BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.8765.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "385\u00d7856 24-bit TrueColor (viewport: 385\u00d7765)",
+      "fullscreenLeakTest": "384\u00d7820",
+      "width": 385,
+      "height": 856,
+      "availWidth": 385,
+      "availHeight": 856,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.75,
+        "innerWidth": 384,
+        "innerHeight": 764,
+        "outerWidth": 385,
+        "outerHeight": 856
+      },
+      "div": { "clientWidth": 385, "clientHeight": 765 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A743B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.9876.21 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "385\u00d7856 24-bit TrueColor (viewport: 385\u00d7765)",
+      "fullscreenLeakTest": "384\u00d7820",
+      "width": 385,
+      "height": 856,
+      "availWidth": 385,
+      "availHeight": 856,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 384,
+        "innerHeight": 764,
+        "outerWidth": 385,
+        "outerHeight": 856
+      },
+      "div": { "clientWidth": 385, "clientHeight": 765 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; LG-F700L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.2345.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 6,
+    "deviceMemory": 4,
+    "maxTouchPoints": 5,
+    "screen": {
+      "screenResolution": "360\u00d7640 24-bit TrueColor (viewport: 360\u00d7572)",
+      "fullscreenLeakTest": "359\u00d7604",
+      "width": 360,
+      "height": 640,
+      "availWidth": 360,
+      "availHeight": 640,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 359,
+        "innerHeight": 571,
+        "outerWidth": 360,
+        "outerHeight": 640
+      },
+      "div": { "clientWidth": 360, "clientHeight": 572 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; RMX3511) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.2345.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 4,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.21 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "384\u00d7854 24-bit TrueColor (viewport: 384\u00d7763)",
+      "fullscreenLeakTest": "383\u00d7818",
+      "width": 384,
+      "height": 854,
+      "availWidth": 384,
+      "availHeight": 854,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 4.0,
+        "innerWidth": 383,
+        "innerHeight": 762,
+        "outerWidth": 384,
+        "outerHeight": 854
+      },
+      "div": { "clientWidth": 384, "clientHeight": 763 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; K199) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.8765.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 4,
+    "deviceMemory": 4,
+    "maxTouchPoints": 5,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.0,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.8765.21 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "385\u00d7856 24-bit TrueColor (viewport: 385\u00d7765)",
+      "fullscreenLeakTest": "384\u00d7820",
+      "width": 385,
+      "height": 856,
+      "availWidth": 385,
+      "availHeight": 856,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.75,
+        "innerWidth": 384,
+        "innerHeight": 764,
+        "outerWidth": 385,
+        "outerHeight": 856
+      },
+      "div": { "clientWidth": 385, "clientHeight": 765 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; X7511) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.2345.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.5,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; K113) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.2345.65 Mobile Safari/537.36",
+    "hardwareConcurrency": 4,
+    "deviceMemory": 4,
+    "maxTouchPoints": 5,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.0,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; HRY-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7654.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 4,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "360\u00d7780 24-bit TrueColor (viewport: 360\u00d7697)",
+      "fullscreenLeakTest": "359\u00d7744",
+      "width": 360,
+      "height": 780,
+      "availWidth": 360,
+      "availHeight": 780,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 359,
+        "innerHeight": 696,
+        "outerWidth": 360,
+        "outerHeight": 780
+      },
+      "div": { "clientWidth": 360, "clientHeight": 697 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.7654.21 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; K183) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.4321.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 4,
+    "deviceMemory": 4,
+    "maxTouchPoints": 5,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.0,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2470BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.8765.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "385\u00d7856 24-bit TrueColor (viewport: 385\u00d7765)",
+      "fullscreenLeakTest": "384\u00d7820",
+      "width": 385,
+      "height": 856,
+      "availWidth": 385,
+      "availHeight": 856,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.75,
+        "innerWidth": 384,
+        "innerHeight": 764,
+        "outerWidth": 385,
+        "outerHeight": 856
+      },
+      "div": { "clientWidth": 385, "clientHeight": 765 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2190BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.21 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "385\u00d7856 24-bit TrueColor (viewport: 385\u00d7765)",
+      "fullscreenLeakTest": "384\u00d7820",
+      "width": 385,
+      "height": 856,
+      "availWidth": 385,
+      "availHeight": 856,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.75,
+        "innerWidth": 384,
+        "innerHeight": 764,
+        "outerWidth": 385,
+        "outerHeight": 856
+      },
+      "div": { "clientWidth": 385, "clientHeight": 765 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; X7131) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.8765.34 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.0,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; GT1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.2345.21 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "412\u00d7892 24-bit TrueColor (viewport: 412\u00d7797)",
+      "fullscreenLeakTest": "411\u00d7856",
+      "width": 412,
+      "height": 892,
+      "availWidth": 412,
+      "availHeight": 892,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.5,
+        "innerWidth": 411,
+        "innerHeight": 796,
+        "outerWidth": 412,
+        "outerHeight": 892
+      },
+      "div": { "clientWidth": 412, "clientHeight": 797 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; RMX3541) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.2345.65 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2770) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7654.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "385\u00d7856 24-bit TrueColor (viewport: 385\u00d7765)",
+      "fullscreenLeakTest": "384\u00d7820",
+      "width": 385,
+      "height": 856,
+      "availWidth": 385,
+      "availHeight": 856,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.75,
+        "innerWidth": 384,
+        "innerHeight": 764,
+        "outerWidth": 385,
+        "outerHeight": 856
+      },
+      "div": { "clientWidth": 385, "clientHeight": 765 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; K209) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.34 Mobile Safari/537.36",
+    "hardwareConcurrency": 4,
+    "deviceMemory": 4,
+    "maxTouchPoints": 5,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.25,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2210) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7654.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "385\u00d7856 24-bit TrueColor (viewport: 385\u00d7765)",
+      "fullscreenLeakTest": "384\u00d7820",
+      "width": 385,
+      "height": 856,
+      "availWidth": 385,
+      "availHeight": 856,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.75,
+        "innerWidth": 384,
+        "innerHeight": 764,
+        "outerWidth": 385,
+        "outerHeight": 856
+      },
+      "div": { "clientWidth": 385, "clientHeight": 765 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; X7371) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.4321.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.0,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; X6991) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.2345.65 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.0,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; GR1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.9876.34 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "393\u00d7851 24-bit TrueColor (viewport: 393\u00d7761)",
+      "fullscreenLeakTest": "392\u00d7815",
+      "width": 393,
+      "height": 851,
+      "availWidth": 393,
+      "availHeight": 851,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 392,
+        "innerHeight": 760,
+        "outerWidth": 393,
+        "outerHeight": 851
+      },
+      "div": { "clientWidth": 393, "clientHeight": 761 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; K197) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7654.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 4,
+    "deviceMemory": 4,
+    "maxTouchPoints": 5,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.0,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; LG-H870DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.2345.65 Mobile Safari/537.36",
+    "hardwareConcurrency": 6,
+    "deviceMemory": 4,
+    "maxTouchPoints": 5,
+    "screen": {
+      "screenResolution": "360\u00d7720 24-bit TrueColor (viewport: 360\u00d7643)",
+      "fullscreenLeakTest": "359\u00d7684",
+      "width": 360,
+      "height": 720,
+      "availWidth": 360,
+      "availHeight": 720,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 4.0,
+        "innerWidth": 359,
+        "innerHeight": 642,
+        "outerWidth": 360,
+        "outerHeight": 720
+      },
+      "div": { "clientWidth": 360, "clientHeight": 643 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; K235) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6543.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 4,
+    "deviceMemory": 4,
+    "maxTouchPoints": 5,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.25,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2490) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "385\u00d7856 24-bit TrueColor (viewport: 385\u00d7765)",
+      "fullscreenLeakTest": "384\u00d7820",
+      "width": 385,
+      "height": 856,
+      "availWidth": 385,
+      "availHeight": 856,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.75,
+        "innerWidth": 384,
+        "innerHeight": 764,
+        "outerWidth": 385,
+        "outerHeight": 856
+      },
+      "div": { "clientWidth": 385, "clientHeight": 765 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A536B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.8765.43 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2130BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.2345.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "385\u00d7856 24-bit TrueColor (viewport: 385\u00d7765)",
+      "fullscreenLeakTest": "384\u00d7820",
+      "width": 385,
+      "height": 856,
+      "availWidth": 385,
+      "availHeight": 856,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.75,
+        "innerWidth": 384,
+        "innerHeight": 764,
+        "outerWidth": 385,
+        "outerHeight": 856
+      },
+      "div": { "clientWidth": 385, "clientHeight": 765 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; X7831) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7654.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.5,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-N986U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.3456.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "412\u00d7915 24-bit TrueColor (viewport: 412\u00d7820)",
+      "fullscreenLeakTest": "411\u00d7879",
+      "width": 412,
+      "height": 915,
+      "availWidth": 412,
+      "availHeight": 915,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.5,
+        "innerWidth": 411,
+        "innerHeight": 819,
+        "outerWidth": 412,
+        "outerHeight": 915
+      },
+      "div": { "clientWidth": 412, "clientHeight": 820 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-G992B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.1234.56 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2710BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6543.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "385\u00d7856 24-bit TrueColor (viewport: 385\u00d7765)",
+      "fullscreenLeakTest": "384\u00d7820",
+      "width": 385,
+      "height": 856,
+      "availWidth": 385,
+      "availHeight": 856,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.75,
+        "innerWidth": 384,
+        "innerHeight": 764,
+        "outerWidth": 385,
+        "outerHeight": 856
+      },
+      "div": { "clientWidth": 385, "clientHeight": 765 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; X7751) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.8765.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.5,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; HRY-LX2A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.5432.21 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 4,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "360\u00d7780 24-bit TrueColor (viewport: 360\u00d7697)",
+      "fullscreenLeakTest": "359\u00d7744",
+      "width": 360,
+      "height": 780,
+      "availWidth": 360,
+      "availHeight": 780,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 359,
+        "innerHeight": 696,
+        "outerWidth": 360,
+        "outerHeight": 780
+      },
+      "div": { "clientWidth": 360, "clientHeight": 697 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A729B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.9876.21 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "412\u00d7915 24-bit TrueColor (viewport: 412\u00d7820)",
+      "fullscreenLeakTest": "411\u00d7879",
+      "width": 412,
+      "height": 915,
+      "availWidth": 412,
+      "availHeight": 915,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.625,
+        "innerWidth": 411,
+        "innerHeight": 819,
+        "outerWidth": 412,
+        "outerHeight": 915
+      },
+      "div": { "clientWidth": 412, "clientHeight": 820 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2550) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.34 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "385\u00d7856 24-bit TrueColor (viewport: 385\u00d7765)",
+      "fullscreenLeakTest": "384\u00d7820",
+      "width": 385,
+      "height": 856,
+      "availWidth": 385,
+      "availHeight": 856,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.75,
+        "innerWidth": 384,
+        "innerHeight": 764,
+        "outerWidth": 385,
+        "outerHeight": 856
+      },
+      "div": { "clientWidth": 385, "clientHeight": 765 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; K101) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.2345.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 4,
+    "deviceMemory": 4,
+    "maxTouchPoints": 5,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.0,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; X8071) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6543.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.5,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; X7211) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.5,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-G995B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.9876.43 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S924B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.4321.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; LG-V500L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7654.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 4,
+    "deviceMemory": 4,
+    "maxTouchPoints": 5,
+    "screen": {
+      "screenResolution": "600\u00d7960 24-bit TrueColor (viewport: 600\u00d7858)",
+      "fullscreenLeakTest": "599\u00d7924",
+      "width": 600,
+      "height": 960,
+      "availWidth": 600,
+      "availHeight": 960,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.0,
+        "innerWidth": 599,
+        "innerHeight": 857,
+        "outerWidth": 600,
+        "outerHeight": 960
+      },
+      "div": { "clientWidth": 600, "clientHeight": 858 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; V2230BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.1234.56 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "385\u00d7856 24-bit TrueColor (viewport: 385\u00d7765)",
+      "fullscreenLeakTest": "384\u00d7820",
+      "width": 385,
+      "height": 856,
+      "availWidth": 385,
+      "availHeight": 856,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.75,
+        "innerWidth": 384,
+        "innerHeight": 764,
+        "outerWidth": 385,
+        "outerHeight": 856
+      },
+      "div": { "clientWidth": 385, "clientHeight": 765 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; V2570BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.4321.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "385\u00d7856 24-bit TrueColor (viewport: 385\u00d7765)",
+      "fullscreenLeakTest": "384\u00d7820",
+      "width": 385,
+      "height": 856,
+      "availWidth": 385,
+      "availHeight": 856,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.75,
+        "innerWidth": 384,
+        "innerHeight": 764,
+        "outerWidth": 385,
+        "outerHeight": 856
+      },
+      "div": { "clientWidth": 385, "clientHeight": 765 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A736F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.2345.65 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "385\u00d7856 24-bit TrueColor (viewport: 385\u00d7765)",
+      "fullscreenLeakTest": "384\u00d7820",
+      "width": 385,
+      "height": 856,
+      "availWidth": 385,
+      "availHeight": 856,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 384,
+        "innerHeight": 764,
+        "outerWidth": 385,
+        "outerHeight": 856
+      },
+      "div": { "clientWidth": 385, "clientHeight": 765 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2630BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6543.21 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "385\u00d7856 24-bit TrueColor (viewport: 385\u00d7765)",
+      "fullscreenLeakTest": "384\u00d7820",
+      "width": 385,
+      "height": 856,
+      "availWidth": 385,
+      "availHeight": 856,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.75,
+        "innerWidth": 384,
+        "innerHeight": 764,
+        "outerWidth": 385,
+        "outerHeight": 856
+      },
+      "div": { "clientWidth": 385, "clientHeight": 765 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; K129) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.2345.21 Mobile Safari/537.36",
+    "hardwareConcurrency": 4,
+    "deviceMemory": 4,
+    "maxTouchPoints": 5,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.25,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2670) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.2345.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "385\u00d7856 24-bit TrueColor (viewport: 385\u00d7765)",
+      "fullscreenLeakTest": "384\u00d7820",
+      "width": 385,
+      "height": 856,
+      "availWidth": 385,
+      "availHeight": 856,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.75,
+        "innerWidth": 384,
+        "innerHeight": 764,
+        "outerWidth": 385,
+        "outerHeight": 856
+      },
+      "div": { "clientWidth": 385, "clientHeight": 765 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; K155) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.8765.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 4,
+    "deviceMemory": 4,
+    "maxTouchPoints": 5,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.25,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; GY1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6543.21 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "393\u00d7851 24-bit TrueColor (viewport: 393\u00d7761)",
+      "fullscreenLeakTest": "392\u00d7815",
+      "width": 393,
+      "height": 851,
+      "availWidth": 393,
+      "availHeight": 851,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 392,
+        "innerHeight": 760,
+        "outerWidth": 393,
+        "outerHeight": 851
+      },
+      "div": { "clientWidth": 393, "clientHeight": 761 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A738B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.8765.43 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "385\u00d7856 24-bit TrueColor (viewport: 385\u00d7765)",
+      "fullscreenLeakTest": "384\u00d7820",
+      "width": 385,
+      "height": 856,
+      "availWidth": 385,
+      "availHeight": 856,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 384,
+        "innerHeight": 764,
+        "outerWidth": 385,
+        "outerHeight": 856
+      },
+      "div": { "clientWidth": 385, "clientHeight": 765 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; GS1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.8765.34 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "393\u00d7851 24-bit TrueColor (viewport: 393\u00d7761)",
+      "fullscreenLeakTest": "392\u00d7815",
+      "width": 393,
+      "height": 851,
+      "availWidth": 393,
+      "availHeight": 851,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 392,
+        "innerHeight": 760,
+        "outerWidth": 393,
+        "outerHeight": 851
+      },
+      "div": { "clientWidth": 393, "clientHeight": 761 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; RMX3555) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.5432.21 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 4,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; K147) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.9876.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 4,
+    "deviceMemory": 4,
+    "maxTouchPoints": 5,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.0,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; X7251) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6543.21 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.0,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; X7891) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6543.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.5,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; X7191) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.8765.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.0,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2290BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "385\u00d7856 24-bit TrueColor (viewport: 385\u00d7765)",
+      "fullscreenLeakTest": "384\u00d7820",
+      "width": 385,
+      "height": 856,
+      "availWidth": 385,
+      "availHeight": 856,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.75,
+        "innerWidth": 384,
+        "innerHeight": 764,
+        "outerWidth": 385,
+        "outerHeight": 856
+      },
+      "div": { "clientWidth": 385, "clientHeight": 765 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; K133) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.8765.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 4,
+    "deviceMemory": 4,
+    "maxTouchPoints": 5,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.0,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; X7071) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.4321.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.5,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; GW1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "412\u00d7892 24-bit TrueColor (viewport: 412\u00d7797)",
+      "fullscreenLeakTest": "411\u00d7856",
+      "width": 412,
+      "height": 892,
+      "availWidth": 412,
+      "availHeight": 892,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.5,
+        "innerWidth": 411,
+        "innerHeight": 796,
+        "outerWidth": 412,
+        "outerHeight": 892
+      },
+      "div": { "clientWidth": 412, "clientHeight": 797 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; K239) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6543.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 4,
+    "deviceMemory": 4,
+    "maxTouchPoints": 5,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.0,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A741B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.2345.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "385\u00d7856 24-bit TrueColor (viewport: 385\u00d7765)",
+      "fullscreenLeakTest": "384\u00d7820",
+      "width": 385,
+      "height": 856,
+      "availWidth": 385,
+      "availHeight": 856,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 384,
+        "innerHeight": 764,
+        "outerWidth": 385,
+        "outerHeight": 856
+      },
+      "div": { "clientWidth": 385, "clientHeight": 765 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; K119) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.5432.21 Mobile Safari/537.36",
+    "hardwareConcurrency": 4,
+    "deviceMemory": 4,
+    "maxTouchPoints": 5,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.0,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; K115) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 4,
+    "deviceMemory": 4,
+    "maxTouchPoints": 5,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.25,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; HRY-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7654.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 4,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "360\u00d7780 24-bit TrueColor (viewport: 360\u00d7697)",
+      "fullscreenLeakTest": "359\u00d7744",
+      "width": 360,
+      "height": 780,
+      "availWidth": 360,
+      "availHeight": 780,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 359,
+        "innerHeight": 696,
+        "outerWidth": 360,
+        "outerHeight": 780
+      },
+      "div": { "clientWidth": 360, "clientHeight": 697 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; K151) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.4321.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 4,
+    "deviceMemory": 4,
+    "maxTouchPoints": 5,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.0,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2410) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.8765.34 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "385\u00d7856 24-bit TrueColor (viewport: 385\u00d7765)",
+      "fullscreenLeakTest": "384\u00d7820",
+      "width": 385,
+      "height": 856,
+      "availWidth": 385,
+      "availHeight": 856,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.75,
+        "innerWidth": 384,
+        "innerHeight": 764,
+        "outerWidth": 385,
+        "outerHeight": 856
+      },
+      "div": { "clientWidth": 385, "clientHeight": 765 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; GZ1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.8765.21 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "412\u00d7892 24-bit TrueColor (viewport: 412\u00d7797)",
+      "fullscreenLeakTest": "411\u00d7856",
+      "width": 412,
+      "height": 892,
+      "availWidth": 412,
+      "availHeight": 892,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.5,
+        "innerWidth": 411,
+        "innerHeight": 796,
+        "outerWidth": 412,
+        "outerHeight": 892
+      },
+      "div": { "clientWidth": 412, "clientHeight": 797 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; K205) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.9876.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 4,
+    "deviceMemory": 4,
+    "maxTouchPoints": 5,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.0,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2690) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.8765.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "385\u00d7856 24-bit TrueColor (viewport: 385\u00d7765)",
+      "fullscreenLeakTest": "384\u00d7820",
+      "width": 385,
+      "height": 856,
+      "availWidth": 385,
+      "availHeight": 856,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.75,
+        "innerWidth": 384,
+        "innerHeight": 764,
+        "outerWidth": 385,
+        "outerHeight": 856
+      },
+      "div": { "clientWidth": 385, "clientHeight": 765 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A745B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.2345.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "385\u00d7856 24-bit TrueColor (viewport: 385\u00d7765)",
+      "fullscreenLeakTest": "384\u00d7820",
+      "width": 385,
+      "height": 856,
+      "availWidth": 385,
+      "availHeight": 856,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 384,
+        "innerHeight": 764,
+        "outerWidth": 385,
+        "outerHeight": 856
+      },
+      "div": { "clientWidth": 385, "clientHeight": 765 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2330) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.5432.21 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "385\u00d7856 24-bit TrueColor (viewport: 385\u00d7765)",
+      "fullscreenLeakTest": "384\u00d7820",
+      "width": 385,
+      "height": 856,
+      "availWidth": 385,
+      "availHeight": 856,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.75,
+        "innerWidth": 384,
+        "innerHeight": 764,
+        "outerWidth": 385,
+        "outerHeight": 856
+      },
+      "div": { "clientWidth": 385, "clientHeight": 765 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; X7431) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6543.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.0,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; LG-F800S) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.9876.34 Mobile Safari/537.36",
+    "hardwareConcurrency": 6,
+    "deviceMemory": 4,
+    "maxTouchPoints": 5,
+    "screen": {
+      "screenResolution": "360\u00d7640 24-bit TrueColor (viewport: 360\u00d7572)",
+      "fullscreenLeakTest": "359\u00d7604",
+      "width": 360,
+      "height": 640,
+      "availWidth": 360,
+      "availHeight": 640,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 4.0,
+        "innerWidth": 359,
+        "innerHeight": 571,
+        "outerWidth": 360,
+        "outerHeight": 640
+      },
+      "div": { "clientWidth": 360, "clientHeight": 572 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; X7331) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.9876.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.0,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A742B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.4321.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "385\u00d7856 24-bit TrueColor (viewport: 385\u00d7765)",
+      "fullscreenLeakTest": "384\u00d7820",
+      "width": 385,
+      "height": 856,
+      "availWidth": 385,
+      "availHeight": 856,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 384,
+        "innerHeight": 764,
+        "outerWidth": 385,
+        "outerHeight": 856
+      },
+      "div": { "clientWidth": 385, "clientHeight": 765 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; K191) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.5432.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 4,
+    "deviceMemory": 4,
+    "maxTouchPoints": 5,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.0,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; K127) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.8765.34 Mobile Safari/537.36",
+    "hardwareConcurrency": 4,
+    "deviceMemory": 4,
+    "maxTouchPoints": 5,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.0,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2590) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7654.21 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "385\u00d7856 24-bit TrueColor (viewport: 385\u00d7765)",
+      "fullscreenLeakTest": "384\u00d7820",
+      "width": 385,
+      "height": 856,
+      "availWidth": 385,
+      "availHeight": 856,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.75,
+        "innerWidth": 384,
+        "innerHeight": 764,
+        "outerWidth": 385,
+        "outerHeight": 856
+      },
+      "div": { "clientWidth": 385, "clientHeight": 765 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2510BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.9876.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "385\u00d7856 24-bit TrueColor (viewport: 385\u00d7765)",
+      "fullscreenLeakTest": "384\u00d7820",
+      "width": 385,
+      "height": 856,
+      "availWidth": 385,
+      "availHeight": 856,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.75,
+        "innerWidth": 384,
+        "innerHeight": 764,
+        "outerWidth": 385,
+        "outerHeight": 856
+      },
+      "div": { "clientWidth": 385, "clientHeight": 765 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A736B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5678.34 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "385\u00d7856 24-bit TrueColor (viewport: 385\u00d7765)",
+      "fullscreenLeakTest": "384\u00d7820",
+      "width": 385,
+      "height": 856,
+      "availWidth": 385,
+      "availHeight": 856,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 384,
+        "innerHeight": 764,
+        "outerWidth": 385,
+        "outerHeight": 856
+      },
+      "div": { "clientWidth": 385, "clientHeight": 765 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; X7571) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.5,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-G991U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.4321.65 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-N981U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.5432.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "393\u00d7873 24-bit TrueColor (viewport: 393\u00d7780)",
+      "fullscreenLeakTest": "392\u00d7837",
+      "width": 393,
+      "height": 873,
+      "availWidth": 393,
+      "availHeight": 873,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 392,
+        "innerHeight": 779,
+        "outerWidth": 393,
+        "outerHeight": 873
+      },
+      "div": { "clientWidth": 393, "clientHeight": 780 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-G996U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.3456.98 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "384\u00d7854 24-bit TrueColor (viewport: 384\u00d7763)",
+      "fullscreenLeakTest": "383\u00d7818",
+      "width": 384,
+      "height": 854,
+      "availWidth": 384,
+      "availHeight": 854,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 383,
+        "innerHeight": 762,
+        "outerWidth": 384,
+        "outerHeight": 854
+      },
+      "div": { "clientWidth": 384, "clientHeight": 763 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S923B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6543.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; HRY-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.9876.34 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 4,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "360\u00d7780 24-bit TrueColor (viewport: 360\u00d7697)",
+      "fullscreenLeakTest": "359\u00d7744",
+      "width": 360,
+      "height": 780,
+      "availWidth": 360,
+      "availHeight": 780,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 359,
+        "innerHeight": 696,
+        "outerWidth": 360,
+        "outerHeight": 780
+      },
+      "div": { "clientWidth": 360, "clientHeight": 697 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-G999B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.9876.21 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-N981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.2345.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "393\u00d7873 24-bit TrueColor (viewport: 393\u00d7780)",
+      "fullscreenLeakTest": "392\u00d7837",
+      "width": 393,
+      "height": 873,
+      "availWidth": 393,
+      "availHeight": 873,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 392,
+        "innerHeight": 779,
+        "outerWidth": 393,
+        "outerHeight": 873
+      },
+      "div": { "clientWidth": 393, "clientHeight": 780 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A727B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7654.21 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "412\u00d7915 24-bit TrueColor (viewport: 412\u00d7820)",
+      "fullscreenLeakTest": "411\u00d7879",
+      "width": 412,
+      "height": 915,
+      "availWidth": 412,
+      "availHeight": 915,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 2.625,
+        "innerWidth": 411,
+        "innerHeight": 819,
+        "outerWidth": 412,
+        "outerHeight": 915
+      },
+      "div": { "clientWidth": 412, "clientHeight": 820 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; HRY-AL10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.8765.21 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 4,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "360\u00d7780 24-bit TrueColor (viewport: 360\u00d7697)",
+      "fullscreenLeakTest": "359\u00d7744",
+      "width": 360,
+      "height": 780,
+      "availWidth": 360,
+      "availHeight": 780,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 359,
+        "innerHeight": 696,
+        "outerWidth": 360,
+        "outerHeight": 780
+      },
+      "div": { "clientWidth": 360, "clientHeight": 697 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-N980B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.9876.32 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "393\u00d7873 24-bit TrueColor (viewport: 393\u00d7780)",
+      "fullscreenLeakTest": "392\u00d7837",
+      "width": 393,
+      "height": 873,
+      "availWidth": 393,
+      "availHeight": 873,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 392,
+        "innerHeight": 779,
+        "outerWidth": 393,
+        "outerHeight": 873
+      },
+      "div": { "clientWidth": 393, "clientHeight": 780 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-G997B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.2345.67 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-G988B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.5432.98 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "384\u00d7854 24-bit TrueColor (viewport: 384\u00d7763)",
+      "fullscreenLeakTest": "383\u00d7818",
+      "width": 384,
+      "height": 854,
+      "availWidth": 384,
+      "availHeight": 854,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 4.0,
+        "innerWidth": 383,
+        "innerHeight": 762,
+        "outerWidth": 384,
+        "outerHeight": 854
+      },
+      "div": { "clientWidth": 384, "clientHeight": 763 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-N988B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.2345.34 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "412\u00d7915 24-bit TrueColor (viewport: 412\u00d7820)",
+      "fullscreenLeakTest": "411\u00d7879",
+      "width": 412,
+      "height": 915,
+      "availWidth": 412,
+      "availHeight": 915,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.5,
+        "innerWidth": 411,
+        "innerHeight": 819,
+        "outerWidth": 412,
+        "outerHeight": 915
+      },
+      "div": { "clientWidth": 412, "clientHeight": 820 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A739B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7654.21 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "385\u00d7856 24-bit TrueColor (viewport: 385\u00d7765)",
+      "fullscreenLeakTest": "384\u00d7820",
+      "width": 385,
+      "height": 856,
+      "availWidth": 385,
+      "availHeight": 856,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 384,
+        "innerHeight": 764,
+        "outerWidth": 385,
+        "outerHeight": 856
+      },
+      "div": { "clientWidth": 385, "clientHeight": 765 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-N989B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.5432.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "412\u00d7915 24-bit TrueColor (viewport: 412\u00d7820)",
+      "fullscreenLeakTest": "411\u00d7879",
+      "width": 412,
+      "height": 915,
+      "availWidth": 412,
+      "availHeight": 915,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 411,
+        "innerHeight": 819,
+        "outerWidth": 412,
+        "outerHeight": 915
+      },
+      "div": { "clientWidth": 412, "clientHeight": 820 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-G9910) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.34 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A730B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.8765.43 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "385\u00d7856 24-bit TrueColor (viewport: 385\u00d7765)",
+      "fullscreenLeakTest": "384\u00d7820",
+      "width": 385,
+      "height": 856,
+      "availWidth": 385,
+      "availHeight": 856,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 384,
+        "innerHeight": 764,
+        "outerWidth": 385,
+        "outerHeight": 856
+      },
+      "div": { "clientWidth": 385, "clientHeight": 765 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-N990B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.9876.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "412\u00d7915 24-bit TrueColor (viewport: 412\u00d7820)",
+      "fullscreenLeakTest": "411\u00d7879",
+      "width": 412,
+      "height": 915,
+      "availWidth": 412,
+      "availHeight": 915,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 411,
+        "innerHeight": 819,
+        "outerWidth": 412,
+        "outerHeight": 915
+      },
+      "div": { "clientWidth": 412, "clientHeight": 820 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-N991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7654.21 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "412\u00d7915 24-bit TrueColor (viewport: 412\u00d7820)",
+      "fullscreenLeakTest": "411\u00d7879",
+      "width": 412,
+      "height": 915,
+      "availWidth": 412,
+      "availHeight": 915,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 411,
+        "innerHeight": 819,
+        "outerWidth": 412,
+        "outerHeight": 915
+      },
+      "div": { "clientWidth": 412, "clientHeight": 820 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-N984B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.4321.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "393\u00d7873 24-bit TrueColor (viewport: 393\u00d7780)",
+      "fullscreenLeakTest": "392\u00d7837",
+      "width": 393,
+      "height": 873,
+      "availWidth": 393,
+      "availHeight": 873,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 392,
+        "innerHeight": 779,
+        "outerWidth": 393,
+        "outerHeight": 873
+      },
+      "div": { "clientWidth": 393, "clientHeight": 780 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A732B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.7654.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "385\u00d7856 24-bit TrueColor (viewport: 385\u00d7765)",
+      "fullscreenLeakTest": "384\u00d7820",
+      "width": 385,
+      "height": 856,
+      "availWidth": 385,
+      "availHeight": 856,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 384,
+        "innerHeight": 764,
+        "outerWidth": 385,
+        "outerHeight": 856
+      },
+      "div": { "clientWidth": 385, "clientHeight": 765 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S925B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6543.34 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "360\u00d7800 24-bit TrueColor (viewport: 360\u00d7715)",
+      "fullscreenLeakTest": "359\u00d7764",
+      "width": 360,
+      "height": 800,
+      "availWidth": 360,
+      "availHeight": 800,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 359,
+        "innerHeight": 714,
+        "outerWidth": 360,
+        "outerHeight": 800
+      },
+      "div": { "clientWidth": 360, "clientHeight": 715 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-N992B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.4321.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "412\u00d7915 24-bit TrueColor (viewport: 412\u00d7820)",
+      "fullscreenLeakTest": "411\u00d7879",
+      "width": 412,
+      "height": 915,
+      "availWidth": 412,
+      "availHeight": 915,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 411,
+        "innerHeight": 819,
+        "outerWidth": 412,
+        "outerHeight": 915
+      },
+      "div": { "clientWidth": 412, "clientHeight": 820 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-N985B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.9876.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "393\u00d7873 24-bit TrueColor (viewport: 393\u00d7780)",
+      "fullscreenLeakTest": "392\u00d7837",
+      "width": 393,
+      "height": 873,
+      "availWidth": 393,
+      "availHeight": 873,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 392,
+        "innerHeight": 779,
+        "outerWidth": 393,
+        "outerHeight": 873
+      },
+      "div": { "clientWidth": 393, "clientHeight": 780 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A733B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.2345.21 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "385\u00d7856 24-bit TrueColor (viewport: 385\u00d7765)",
+      "fullscreenLeakTest": "384\u00d7820",
+      "width": 385,
+      "height": 856,
+      "availWidth": 385,
+      "availHeight": 856,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 384,
+        "innerHeight": 764,
+        "outerWidth": 385,
+        "outerHeight": 856
+      },
+      "div": { "clientWidth": 385, "clientHeight": 765 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S926B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.4321.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "384\u00d7854 24-bit TrueColor (viewport: 384\u00d7763)",
+      "fullscreenLeakTest": "383\u00d7818",
+      "width": 384,
+      "height": 854,
+      "availWidth": 384,
+      "availHeight": 854,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 383,
+        "innerHeight": 762,
+        "outerWidth": 384,
+        "outerHeight": 854
+      },
+      "div": { "clientWidth": 384, "clientHeight": 763 },
+      "isExtended": false
+    }
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-N994B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6543.12 Mobile Safari/537.36",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8,
+    "maxTouchPoints": 10,
+    "screen": {
+      "screenResolution": "412\u00d7915 24-bit TrueColor (viewport: 412\u00d7820)",
+      "fullscreenLeakTest": "411\u00d7879",
+      "width": 412,
+      "height": 915,
+      "availWidth": 412,
+      "availHeight": 915,
+      "colorDepth": 24,
+      "pixelDepth": 24,
+      "availTop": 0,
+      "availLeft": 0,
+      "orientation": { "type": "portrait-primary", "angle": 0 },
+      "window": {
+        "devicePixelRatio": 3.0,
+        "innerWidth": 411,
+        "innerHeight": 819,
+        "outerWidth": 412,
+        "outerHeight": 915
+      },
+      "div": { "clientWidth": 412, "clientHeight": 820 },
+      "isExtended": false
+    }
+  }
+]
