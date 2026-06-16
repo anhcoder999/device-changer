@@ -1,1370 +1,321 @@
 [
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-G991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.1234.56 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-G996B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.9876.32 Mobile Safari/537.36",
-    "screen": { "width": 384, "height": 854, "availWidth": 384, "availHeight": 854, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.21 Mobile Safari/537.36",
-    "screen": { "width": 384, "height": 854, "availWidth": 384, "availHeight": 854, "devicePixelRatio": 4 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A536B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.8765.43 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A536U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.2345.67 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.1234.12 Mobile Safari/537.36",
-    "screen": { "width": 384, "height": 854, "availWidth": 384, "availHeight": 854, "devicePixelRatio": 3.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-S906B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.7654.89 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-N986B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.3456.78 Mobile Safari/537.36",
-    "screen": { "width": 412, "height": 915, "availWidth": 412, "availHeight": 915, "devicePixelRatio": 3.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-N981B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.2345.12 Mobile Safari/537.36",
-    "screen": { "width": 393, "height": 873, "availWidth": 393, "availHeight": 873, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A736B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5678.34 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A715F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.9876.12 Mobile Safari/537.36",
-    "screen": { "width": 412, "height": 915, "availWidth": 412, "availHeight": 915, "devicePixelRatio": 2.625 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-G991U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.4321.65 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A536F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.8765.32 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A725F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.1234.78 Mobile Safari/537.36",
-    "screen": { "width": 412, "height": 915, "availWidth": 412, "availHeight": 915, "devicePixelRatio": 2.625 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S918U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6543.21 Mobile Safari/537.36",
-    "screen": { "width": 384, "height": 854, "availWidth": 384, "availHeight": 854, "devicePixelRatio": 3.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-G996U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.3456.98 Mobile Safari/537.36",
-    "screen": { "width": 384, "height": 854, "availWidth": 384, "availHeight": 854, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-N985F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.8765.21 Mobile Safari/537.36",
-    "screen": { "width": 412, "height": 915, "availWidth": 412, "availHeight": 915, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-N981U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.5432.12 Mobile Safari/537.36",
-    "screen": { "width": 393, "height": 873, "availWidth": 393, "availHeight": 873, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A736F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.2345.65 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A715U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.9876.43 Mobile Safari/537.36",
-    "screen": { "width": 412, "height": 915, "availWidth": 412, "availHeight": 915, "devicePixelRatio": 2.625 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-G998U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.12 Mobile Safari/537.36",
-    "screen": { "width": 384, "height": 854, "availWidth": 384, "availHeight": 854, "devicePixelRatio": 4 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A736U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.2345.67 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S920B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.1234.98 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-N986U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.3456.12 Mobile Safari/537.36",
-    "screen": { "width": 412, "height": 915, "availWidth": 412, "availHeight": 915, "devicePixelRatio": 3.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-N981F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.8765.43 Mobile Safari/537.36",
-    "screen": { "width": 393, "height": 873, "availWidth": 393, "availHeight": 873, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S920U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.9876.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-G990B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.2345.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-G995B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.9876.43 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A737B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.5432.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.7654.21 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-N987B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.4321.12 Mobile Safari/537.36",
-    "screen": { "width": 412, "height": 915, "availWidth": 412, "availHeight": 915, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-N980B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.9876.32 Mobile Safari/537.36",
-    "screen": { "width": 393, "height": 873, "availWidth": 393, "availHeight": 873, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-G997B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.2345.67 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A738B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.8765.43 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A727B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7654.21 Mobile Safari/537.36",
-    "screen": { "width": 412, "height": 915, "availWidth": 412, "availHeight": 915, "devicePixelRatio": 2.625 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S922B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.1234.56 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-G989B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.8765.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-G988B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.5432.98 Mobile Safari/537.36",
-    "screen": { "width": 384, "height": 854, "availWidth": 384, "availHeight": 854, "devicePixelRatio": 4 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-N988B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.2345.34 Mobile Safari/537.36",
-    "screen": { "width": 412, "height": 915, "availWidth": 412, "availHeight": 915, "devicePixelRatio": 3.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A739B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7654.21 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A728B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.4321.65 Mobile Safari/537.36",
-    "screen": { "width": 412, "height": 915, "availWidth": 412, "availHeight": 915, "devicePixelRatio": 2.625 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S923B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6543.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-G999B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.9876.21 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-N989B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.5432.12 Mobile Safari/537.36",
-    "screen": { "width": 412, "height": 915, "availWidth": 412, "availHeight": 915, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-N982B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.2345.87 Mobile Safari/537.36",
-    "screen": { "width": 393, "height": 873, "availWidth": 393, "availHeight": 873, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A740B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6543.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A729B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.9876.21 Mobile Safari/537.36",
-    "screen": { "width": 412, "height": 915, "availWidth": 412, "availHeight": 915, "devicePixelRatio": 2.625 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-G9910) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.34 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A741B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.2345.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A730B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.8765.43 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S924B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.4321.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-G992B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.1234.56 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-N990B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.9876.12 Mobile Safari/537.36",
-    "screen": { "width": 412, "height": 915, "availWidth": 412, "availHeight": 915, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-N983B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7654.21 Mobile Safari/537.36",
-    "screen": { "width": 393, "height": 873, "availWidth": 393, "availHeight": 873, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A742B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.4321.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A731B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.5432.87 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-G993B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.2345.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-N991B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7654.21 Mobile Safari/537.36",
-    "screen": { "width": 412, "height": 915, "availWidth": 412, "availHeight": 915, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-N984B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.4321.12 Mobile Safari/537.36",
-    "screen": { "width": 393, "height": 873, "availWidth": 393, "availHeight": 873, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A743B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.9876.21 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A732B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.7654.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S925B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6543.34 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-G994B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.1234.21 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-N992B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.4321.12 Mobile Safari/537.36",
-    "screen": { "width": 412, "height": 915, "availWidth": 412, "availHeight": 915, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-N985B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.9876.12 Mobile Safari/537.36",
-    "screen": { "width": 393, "height": 873, "availWidth": 393, "availHeight": 873, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A744B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7654.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A733B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.2345.21 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-G995U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-N993B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.9876.34 Mobile Safari/537.36",
-    "screen": { "width": 412, "height": 915, "availWidth": 412, "availHeight": 915, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A745B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.2345.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A734B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.9876.43 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S926B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.4321.12 Mobile Safari/537.36",
-    "screen": { "width": 384, "height": 854, "availWidth": 384, "availHeight": 854, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-N994B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6543.12 Mobile Safari/537.36",
-    "screen": { "width": 412, "height": 915, "availWidth": 412, "availHeight": 915, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; RMX3511) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.2345.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; RMX3515) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.9876.34 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; RMX3521) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.21 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; RMX3525) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7654.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; RMX3531) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.1234.56 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; RMX3535) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.8765.21 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; RMX3541) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.2345.65 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; RMX3545) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; RMX3551) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.9876.34 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; RMX3555) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.5432.21 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; LG-F700L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.2345.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 640, "availWidth": 360, "availHeight": 640, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; LG-F800S) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.9876.34 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 640, "availWidth": 360, "availHeight": 640, "devicePixelRatio": 4 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; LG-F900K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.21 Mobile Safari/537.36",
-    "screen": { "width": 412, "height": 915, "availWidth": 412, "availHeight": 915, "devicePixelRatio": 3.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; LG-V500L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7654.12 Mobile Safari/537.36",
-    "screen": { "width": 600, "height": 960, "availWidth": 600, "availHeight": 960, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; LG-V600S) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.1234.56 Mobile Safari/537.36",
-    "screen": { "width": 412, "height": 915, "availWidth": 412, "availHeight": 915, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; LG-G710EMW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.8765.21 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 760, "availWidth": 360, "availHeight": 760, "devicePixelRatio": 4 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; LG-H870DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.2345.65 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 720, "availWidth": 360, "availHeight": 720, "devicePixelRatio": 4 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; LG-K500N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.12 Mobile Safari/537.36",
-    "screen": { "width": 320, "height": 568, "availWidth": 320, "availHeight": 568, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; LG-Q730L) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.9876.34 Mobile Safari/537.36",
-    "screen": { "width": 384, "height": 854, "availWidth": 384, "availHeight": 854, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; LG-X210DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.5432.21 Mobile Safari/537.36",
-    "screen": { "width": 320, "height": 568, "availWidth": 320, "availHeight": 568, "devicePixelRatio": 1.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; HRY-AN10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.2345.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 780, "availWidth": 360, "availHeight": 780, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; HRY-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.9876.34 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 780, "availWidth": 360, "availHeight": 780, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; HRY-LX2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.21 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 780, "availWidth": 360, "availHeight": 780, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; HRY-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7654.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 780, "availWidth": 360, "availHeight": 780, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; HRY-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.1234.56 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 780, "availWidth": 360, "availHeight": 780, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; HRY-AL10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.8765.21 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 780, "availWidth": 360, "availHeight": 780, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; HRY-TL00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.2345.65 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 780, "availWidth": 360, "availHeight": 780, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; HRY-TL10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 780, "availWidth": 360, "availHeight": 780, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; HRY-LX1A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.9876.34 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 780, "availWidth": 360, "availHeight": 780, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; HRY-LX2A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.5432.21 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 780, "availWidth": 360, "availHeight": 780, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; GD1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.2345.12 Mobile Safari/537.36",
-    "screen": { "width": 393, "height": 851, "availWidth": 393, "availHeight": 851, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; GR1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.9876.34 Mobile Safari/537.36",
-    "screen": { "width": 393, "height": 851, "availWidth": 393, "availHeight": 851, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; GV1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.21 Mobile Safari/537.36",
-    "screen": { "width": 412, "height": 892, "availWidth": 412, "availHeight": 892, "devicePixelRatio": 3.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; GQ1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7654.12 Mobile Safari/537.36",
-    "screen": { "width": 393, "height": 851, "availWidth": 393, "availHeight": 851, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; GX1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.1234.56 Mobile Safari/537.36",
-    "screen": { "width": 412, "height": 892, "availWidth": 412, "availHeight": 892, "devicePixelRatio": 3.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; GZ1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.8765.21 Mobile Safari/537.36",
-    "screen": { "width": 412, "height": 892, "availWidth": 412, "availHeight": 892, "devicePixelRatio": 3.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; GJ1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.2345.65 Mobile Safari/537.36",
-    "screen": { "width": 393, "height": 851, "availWidth": 393, "availHeight": 851, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; GL1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.12 Mobile Safari/537.36",
-    "screen": { "width": 393, "height": 851, "availWidth": 393, "availHeight": 851, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; GM1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.9876.34 Mobile Safari/537.36",
-    "screen": { "width": 393, "height": 851, "availWidth": 393, "availHeight": 851, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; GN1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.5432.21 Mobile Safari/537.36",
-    "screen": { "width": 393, "height": 851, "availWidth": 393, "availHeight": 851, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; GP1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.4321.12 Mobile Safari/537.36",
-    "screen": { "width": 412, "height": 892, "availWidth": 412, "availHeight": 892, "devicePixelRatio": 3.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; GQ2YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6543.21 Mobile Safari/537.36",
-    "screen": { "width": 393, "height": 851, "availWidth": 393, "availHeight": 851, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; GR2YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.7654.12 Mobile Safari/537.36",
-    "screen": { "width": 393, "height": 851, "availWidth": 393, "availHeight": 851, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; GS1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.8765.34 Mobile Safari/537.36",
-    "screen": { "width": 393, "height": 851, "availWidth": 393, "availHeight": 851, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; GT1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.2345.21 Mobile Safari/537.36",
-    "screen": { "width": 412, "height": 892, "availWidth": 412, "availHeight": 892, "devicePixelRatio": 3.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; GU1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6543.12 Mobile Safari/537.36",
-    "screen": { "width": 393, "height": 851, "availWidth": 393, "availHeight": 851, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; GV2YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.8765.12 Mobile Safari/537.36",
-    "screen": { "width": 412, "height": 892, "availWidth": 412, "availHeight": 892, "devicePixelRatio": 3.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; GW1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.12 Mobile Safari/537.36",
-    "screen": { "width": 412, "height": 892, "availWidth": 412, "availHeight": 892, "devicePixelRatio": 3.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; GX2YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.9876.12 Mobile Safari/537.36",
-    "screen": { "width": 412, "height": 892, "availWidth": 412, "availHeight": 892, "devicePixelRatio": 3.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; GY1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6543.21 Mobile Safari/537.36",
-    "screen": { "width": 393, "height": 851, "availWidth": 393, "availHeight": 851, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; GZ2YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.34 Mobile Safari/537.36",
-    "screen": { "width": 412, "height": 892, "availWidth": 412, "availHeight": 892, "devicePixelRatio": 3.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; GA1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.4321.12 Mobile Safari/537.36",
-    "screen": { "width": 393, "height": 851, "availWidth": 393, "availHeight": 851, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; GB1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7654.21 Mobile Safari/537.36",
-    "screen": { "width": 393, "height": 851, "availWidth": 393, "availHeight": 851, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; GC1YQ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.9876.12 Mobile Safari/537.36",
-    "screen": { "width": 393, "height": 851, "availWidth": 393, "availHeight": 851, "devicePixelRatio": 3 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2130) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.2345.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2150) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.9876.34 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2190) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.21 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2210) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7654.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; V2230) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.1234.56 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.8765.21 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2270) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.2345.65 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2290) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2310) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.9876.34 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2330) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.5432.21 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2350) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.4321.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2370) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6543.21 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; V2390) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.7654.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2410) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.8765.34 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2430) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.2345.21 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2450) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6543.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2470) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.8765.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2490) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2510) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.9876.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2530) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6543.21 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2550) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.34 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; V2570) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.4321.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2590) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7654.21 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2610) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.9876.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2630) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6543.21 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2650) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.4321.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2670) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.2345.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2690) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.8765.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2710) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6543.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; V2730) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.9876.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2750) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.5432.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2770) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7654.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2790) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.2345.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2810) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.8765.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2830) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.4321.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2850) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; V2870) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6543.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2890) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.9876.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2910) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7654.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2930) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.4321.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2950) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6543.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2970) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.9876.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2990) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; V3010) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.5432.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; V3030) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.4321.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; V3050) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.9876.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; V3070) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.5432.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; V3090) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7654.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; V3110) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6543.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; V3130) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.4321.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2130BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.2345.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2150BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.9876.34 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2190BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.21 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2210BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7654.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; V2230BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.1234.56 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2250BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.8765.21 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2270BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.2345.65 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2290BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2310BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.9876.34 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2330BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.5432.21 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2350BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.4321.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2370BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6543.21 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; V2390BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.7654.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2410BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.8765.34 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2430BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.2345.21 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2450BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6543.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2470BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.8765.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2490BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2510BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.9876.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2530BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6543.21 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2550BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.34 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; V2570BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.4321.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2590BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7654.21 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2610BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.9876.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2630BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6543.21 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2650BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.4321.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2670BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.2345.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2690BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.8765.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2710BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6543.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; V2730BA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.9876.12 Mobile Safari/537.36",
-    "screen": { "width": 385, "height": 856, "availWidth": 385, "availHeight": 856, "devicePixelRatio": 2.75 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; X6811) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.2345.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; X6871) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.9876.34 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; X6901) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.21 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; X6921) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7654.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; X6951) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.1234.56 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; X6971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.8765.21 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; X6991) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.2345.65 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; X7011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; X7031) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.9876.34 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; X7051) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.5432.21 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; X7071) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.4321.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; X7091) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6543.21 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; X7111) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.7654.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; X7131) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.8765.34 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; X7151) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.2345.21 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; X7171) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6543.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; X7191) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.8765.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; X7211) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; X7231) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.9876.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; X7251) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6543.21 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; X7271) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.34 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; X7291) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.4321.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; X7311) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7654.21 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; X7331) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.9876.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; X7351) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6543.21 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; X7371) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.4321.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; X7391) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.2345.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; X7411) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.8765.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; X7431) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6543.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; X7451) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.9876.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; X7471) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.5432.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; X7491) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7654.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; X7511) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.2345.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; X7531) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.8765.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; X7551) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.4321.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; X7571) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; X7591) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6543.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; X7611) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.9876.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; X7631) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7654.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; X7651) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.4321.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; X7671) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6543.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; X7691) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.4321.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; X7711) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; X7731) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.2345.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; X7751) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.8765.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; X7771) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.5432.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; X7791) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.9876.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; X7811) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.4321.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; X7831) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7654.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; X7851) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.8765.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; X7871) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; X7891) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6543.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; X7911) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.9876.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; X7931) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6543.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; X7951) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.34 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; X7971) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.4321.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; X7991) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.5432.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; X8011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7654.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; X8031) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.2345.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; X8051) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.8765.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; X8071) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6543.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; X8091) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.4321.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; X8111) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; X8131) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.9876.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; X8151) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7654.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.5 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; K101) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.2345.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; K103) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.9876.34 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; K105) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.21 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; K107) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7654.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; K109) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.1234.56 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; K111) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.8765.21 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; K113) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.2345.65 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; K115) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; K117) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.9876.34 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; K119) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.5432.21 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; K121) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.4321.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; K123) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6543.21 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; K125) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.7654.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; K127) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.8765.34 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; K129) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.2345.21 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; K131) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6543.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; K133) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.8765.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; K135) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; K137) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.9876.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; K139) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6543.21 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; K141) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.34 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; K143) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.4321.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; K145) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7654.21 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; K147) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.9876.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; K149) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6543.21 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; K151) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.4321.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; K153) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.2345.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; K155) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.8765.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; K157) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6543.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; K159) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.9876.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; K161) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.5432.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; K163) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7654.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; K165) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.2345.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; K167) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.8765.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; K169) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.4321.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; K171) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; K173) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6543.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; K175) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.9876.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; K177) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7654.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; K179) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.4321.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; K181) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6543.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; K183) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.4321.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; K185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; K187) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.2345.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; K189) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.8765.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; K191) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.5432.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; K193) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.9876.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; K195) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.4321.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; K197) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7654.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; K199) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.8765.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; K201) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; K203) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6543.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; K205) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.9876.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; K207) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6543.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; K209) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7654.34 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; K211) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.4321.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; K213) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.5432.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; K215) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7654.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; K217) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.2345.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; K219) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.8765.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; K221) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6543.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; K223) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.4321.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; K225) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5432.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; K227) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.9876.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; K229) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7654.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; K231) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.8765.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 15; K233) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.4321.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 16; K235) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6543.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2.25 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 14; K237) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.9876.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  },
-  {
-    "userAgent": "Mozilla/5.0 (Linux; Android 13; K239) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6543.12 Mobile Safari/537.36",
-    "screen": { "width": 360, "height": 800, "availWidth": 360, "availHeight": 800, "devicePixelRatio": 2 }
-  }
+  "Mozilla/5.0 (Linux; Android 15; SM-S911U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6874.12 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; CPH2525) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.5965.100 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; 2407FPN8CG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6094.56 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 16; ASUS_AI2501_A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.5236.77 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; X6833B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.6548.147 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; LM-G900N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.5034.13 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; CRT-NX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.6670.106 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; RMX3840) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.5086.64 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; CPH2521) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.5644.29 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; 2407FPN8EG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.5375.139 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; ASUS_AI2201) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.5892.26 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; X6837) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6064.54 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; LM-G910N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.5640.55 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; ALI-NX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.5194.41 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; RMX3842) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6302.90 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; CPH2529) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6827.42 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; 24030PN60G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.5042.128 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; ASUS_AI2203) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.5026.28 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; X6853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.5577.100 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; LM-V600N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.6589.97 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; ELI-NX9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6148.15 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; RMX3851) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.5450.103 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; SM-S926U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.5614.99 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; CPH2565) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.5439.71 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 16; 23116PN5BG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.5053.115 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; ASUS_AI2205) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.5531.140 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; X6871) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.5298.147 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; LM-K520N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.5186.134 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; ANY-AN00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.5709.143 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; RMX3999) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6458.98 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 16; SM-S921U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.5011.123 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; CPH2599) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.5053.115 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; 23127PN0CG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6033.93 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; ASUS_AI2302) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.5781.61 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; X6882) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6720.86 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; LM-K420N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.5754.3 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; BVL-AN00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.5384.17 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; RMX3861) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6426.91 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; SM-S918U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6554.42 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; CPH2607) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6268.39 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; 23122WG47C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.5440.4 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; ASUS_AI2401) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.5824.88 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; X689F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.5560.56 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; BVL-N59) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.5407.143 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 16; RMX3890) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.5508.7 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; SM-S916U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.5599.88 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; CPH2611) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5066.121 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6621.81 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 16; ASUS_AI2501) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.5271.28 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; X6711) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6214.20 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; HJC-LX9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6604.113 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; RMX3612) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6989.2 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; SM-S928U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6412.35 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; CPH2625) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.5572.18 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; 2210132G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.6298.142 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; ASUS_I003D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.5833.109 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; X6715) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6911.74 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; TFY-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.5814.8 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; RMX3686) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6592.110 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; SM-S908U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.5901.65 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; CPH2629) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6033.93 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; 2201123C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5495.86 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; ASUS_I005D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.5127.72 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; X6716) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.5349.126 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; VNE-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.5078.126 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; RMX3501) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.5623.145 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; SM-S906U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.5100.104 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; CPH2631) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6203.37 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; 2112123G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6701.31 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; ASUS_I006D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.5519.126 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; X6720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6336.121 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; WLY-LX9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6791.44 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; RMX3511) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.5246.67 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; SM-S901U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.5891.17 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; CPH2639) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.5595.116 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; 2107113CG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6577.92 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; ASUS_AI2202) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5212.125 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; X6731) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6891.36 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; LRA-AN00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.5381.45 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; RMX3624) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.5042.128 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; SM-G998U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6305.51 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; CPH2643) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.5523.87 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; 21081111RG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.5188.8 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; ASUS_AI2401_A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.5974.144 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; X6817) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.5361.80 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; CLK-AN00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5199.91 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; RMX3690) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6526.105 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; SM-G996U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.5407.143 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; CPH2645) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.5586.63 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; 2109119CG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.5323.68 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; ASUS_AI2401_B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5141.74 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; X6831) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6358.22 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; VCA-AN00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6186.107 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; RMX3760) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.5158.119 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; SM-G991U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.6138.53 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; CPH2457) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.5263.30 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; 2312DRA50G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6311.117 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; ELP-AN00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.5834.42 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; RMX3782) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6350.102 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; SM-A556E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6261.73 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; CPH2505) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6305.51 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; 2312DRA50C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.5128.101 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; ASUS_AI2201_B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6910.60 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; ANY-NX9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.5333.124 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; RMX3830) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6900.17 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; SM-A556N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.6504.139 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; CPH2579) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6109.23 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; 23117RA98G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6480.39 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; ASUS_AI2205_B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6508.50 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; CLK-NX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.5684.95 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; RMX3871) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.6856.48 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 16; SM-A356B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.6444.147 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; CPH2173) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.5402.118 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; 23090RA98G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6985.26 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; X6815) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6323.50 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; ELP-NX9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.5391.136 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; RMX3085) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6485.141 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; SM-A156B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.5257.89 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; CPH2305) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6864.6 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; 22101316G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6111.111 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; X6821) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.6154.72 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; FNE-NX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.5856.112 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; RMX3151) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.6172.15 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; SM-A256B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.5889.51 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; CPH2459) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.5316.110 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; 2201116PG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6081.117 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; TFY-LX2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.5605.123 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; RMX3241) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.5049.147 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; CPH2185) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6845.147 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; 23113RKC6C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.5125.34 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; VNE-LX2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6734.118 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; RMX3381) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.5393.102 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; CPH2219) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.5838.131 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; 2311DRK48C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.6242.23 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; RMO-NX9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6195.48 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; RMX3471) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6170.130 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; SM-A146B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.6019.81 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; CPH2239) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.5463.113 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; 23013PC75G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.6404.28 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; GLL-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6647.4 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; RMX3472) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.5587.58 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; CPH2269) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.5549.107 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; 23049PCD8G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6312.118 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; HJC-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.6165.34 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; RMX3301) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.5649.112 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; CPH2365) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.6513.6 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; 2306EPN60G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5273.7 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; X689F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.5560.56 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; CMA-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.5857.124 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; RMX3311) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.5935.106 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; CPH2385) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6688.2 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; 24069PC21Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.5775.121 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; X6711) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6214.20 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; RMX3363) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.5423.111 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; SM-A136B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.5100.53 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; CPH2477) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.5767.91 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 16; 24069PC21H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.5494.86 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; RMX3370) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.5531.56 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; SM-A736B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.5650.122 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; CPH2577) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6258.49 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; 23124PSC4G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6219.67 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; X6716) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.5349.126 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; RMX3561) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.5654.0 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.5188.8 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; CPH2581) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6026.96 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; 23122PCD1G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6990.34 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; X6720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6336.121 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; RMX3709) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.5428.85 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.5806.71 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; CPH2591) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.6856.9 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; 23129RAA4G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6621.121 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; X6731) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6891.36 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; RMX3741) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6096.87 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; SM-A725F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.5775.114 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; CPH2595) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5882.38 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; 2201117SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.5224.57 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; RMX3771) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6526.86 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; SM-F946U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.5586.66 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; 2201117PG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.5584.144 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; SM-F731U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6311.117 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; CRT-AN00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6186.63 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; 2201116TG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.5525.88 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; SM-F936U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.6026.50 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; 2201116SR) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.5269.90 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; SM-F721U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.5515.55 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; 22101320G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.5415.24 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; SM-F926B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6990.34 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; 22111317G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.5128.62 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; SM-F711B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.5711.114 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; 23028RN4DG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.5876.20 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; SM-M536B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.5224.57 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; 23053RN02G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.5020.104 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; SM-M336B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6683.137 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; SM-M236B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6745.29 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; SM-M136B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6776.143 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; SM-S928N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.6811.14 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 16; SM-S9280) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.5122.92 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; SM-A556N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.6504.139 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; SM-A256B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.5889.51 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; SM-A146B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.6019.81 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; SM-A136B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.5100.53 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; SM-A736B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.5650.122 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; SM-A528B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.5188.8 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; SM-A525F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.5806.71 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; SM-A725F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.5775.114 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; SM-F946U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.5586.66 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; SM-F731U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6311.117 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; SM-F936U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.6026.50 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; SM-F721U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.5515.55 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; SM-F926B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6990.34 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; SM-F711B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.5711.114 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; SM-M536B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.5224.57 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; SM-M336B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6683.137 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; SM-M236B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6745.29 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; SM-M136B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6776.143 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; CPH2625) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.5572.18 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; CPH2629) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6033.93 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; CPH2631) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6203.37 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; CPH2639) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.5595.116 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; CPH2643) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.5523.87 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; CPH2645) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.5586.63 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; CPH2457) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.5263.30 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; CPH2505) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6305.51 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; CPH2579) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6109.23 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; CPH2173) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.5402.118 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; CPH2305) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6864.6 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; CPH2459) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.5316.110 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; CPH2595) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5882.38 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; BVL-AN00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.5384.17 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; BVL-N59) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.5407.143 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; HJC-LX9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6604.113 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; TFY-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.5814.8 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; VNE-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.5078.126 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; WLY-LX9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6791.44 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; LRA-AN00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.5381.45 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; CLK-AN00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5199.91 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; VCA-AN00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6186.107 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; ELP-AN00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.5834.42 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; ANY-NX9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.5333.124 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; CLK-NX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.5684.95 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; ELP-NX9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.5391.136 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; FNE-NX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.5856.112 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; TFY-LX2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.5605.123 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; VNE-LX2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6734.118 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; RMO-NX9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6195.48 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; GLL-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6647.4 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; HJC-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.6165.34 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; CMA-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.5857.124 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; HJC-AN00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.5840.99 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; NTH-AN00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.5873.101 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; GNT-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6637.140 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; WDK-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.5471.39 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; ALI-AN00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6074.76 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; ASUS_AI2401) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.5824.88 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 16; ASUS_AI2501) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.5271.28 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; ASUS_I003D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.5833.109 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; ASUS_I005D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.5127.72 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; ASUS_I006D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.5519.126 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; ASUS_AI2202) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5212.125 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; ASUS_AI2401_A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.5974.144 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; ASUS_AI2401_B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.5141.74 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 16; ASUS_AI2501_A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.5236.77 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; ASUS_AI2201_B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6910.60 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; ASUS_AI2205_B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6508.50 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; X6815) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6323.50 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; X6821) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.6154.72 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; X6833B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.6548.147 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; X6837) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6064.54 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; X6853) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.5577.100 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; X6871) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.5298.147 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; X6882) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6720.86 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; X689F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.5560.56 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; X6711) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6214.20 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; X6715) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6911.74 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; X6716) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.5349.126 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; X6720) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6336.121 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; X6731) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6891.36 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; X6817) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.5361.80 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; X6831) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6358.22 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; LM-G900N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.5034.13 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; LM-G910N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.5640.55 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; LM-V600N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.6589.97 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; LM-K520N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.5186.134 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; LM-K420N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.5754.3 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; LM-K510N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.5015.8 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; LM-G900VM) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.5271.132 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; LM-V600AM) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.5625.70 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; LM-K920AM) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.5782.136 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; LM-F100EM) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.5259.78 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; LM-G850EM) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.5534.54 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; LM-G820UM) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.5289.145 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; LM-V500N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6128.55 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; LM-V409N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6897.101 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; LM-Q510N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6999.143 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; XQ-CT54) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6760.77 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; XQ-CQ54) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6791.44 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; XQ-DQ54) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.5508.7 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; XQ-DE54) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.5381.45 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; XQ-EC54) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6000.29 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; XQ-BC52) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6265.29 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; XQ-AT51) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6682.95 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; XQ-AS52) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6775.107 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; XQ-BT52) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.5065.33 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; XQ-CT72) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.5850.109 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; XQ-CQ72) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.6895.137 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; XQ-DQ62) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.5270.10 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; XQ-BC62) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6500.15 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 11; XQ-AS62) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.6671.35 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; XQ-CC62) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6505.31 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; 2201116GT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.6019.81 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 12; 2201116UG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6258.49 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; 22111317UG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6186.63 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 13; 22111317PG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.5224.57 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; 23049PCD8I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6094.56 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; 23076PC4BI) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.5053.115 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; 23113RPC5G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6033.93 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 14; 23129PCD1G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6203.37 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; 24099PN57G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.5595.116 Mobile Safari/537.36",
+  "Mozilla/5.0 (Linux; Android 15; 24125PC37G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.5523.87 Mobile Safari/537.36"
 ]
