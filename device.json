@@ -1,0 +1,2702 @@
+[
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S928B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.6384.112 Mobile Safari/537.36",
+    "screenWidth": 384,
+    "screenHeight": 854,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 750, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; CPH2581) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6120.98 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 915,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 740, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; 2201117TY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6090.43 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 873,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G610 MC6, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6720.55 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 892,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G715, OpenGL ES 3.2)",
+    "hardwareConcurrency": 10,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; PEAM00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6410.82 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 800,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 620, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; M2101K6G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6200.15 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 851,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 618, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; Moto G53 5G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6300.22 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 820,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 619, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 4
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2309A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6500.41 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 930,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Immortalis-G720 MC12, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SNE-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.6650.19 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 780,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G51, OpenGL ES 3.2)",
+    "hardwareConcurrency": 6,
+    "deviceMemory": 4
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; CPH2437) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6480.10 Mobile Safari/537.36",
+    "screenWidth": 390,
+    "screenHeight": 844,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 730, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; Infinix X6833B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6250.71 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 808,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G57 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; XT2403-2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6780.4 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 912,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 720, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; Sony XQ-DQ72) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.6350.5 Mobile Safari/537.36",
+    "screenWidth": 384,
+    "screenHeight": 880,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 740, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; TECNO KJ6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6510.99 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 860,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G57 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-G998B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.6890.33 Mobile Safari/537.36",
+    "screenWidth": 384,
+    "screenHeight": 854,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G78, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; LG-H930) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6090.55 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 720,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 540, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 4
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; A065) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.6550.21 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 915,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 730, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; Lenovo TB350FU) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6200.80 Mobile Safari/537.36",
+    "screenWidth": 600,
+    "screenHeight": 960,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G57 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; Meizu 20 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6600.12 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 852,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 740, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; 23127PN0CG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6800.2 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 852,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 750, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; RMX3771) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6300.75 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 800,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G610 MC4, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; Poco F5 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.6450.43 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 915,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 730, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; iQOO Neo7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.6350.81 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 873,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G710 MC10, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; CPH2521) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6510.45 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 800,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G610 MC4, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; Infinix X670) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6120.52 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 851,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G57 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 8a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6780.88 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 892,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G715, OpenGL ES 3.2)",
+    "hardwareConcurrency": 10,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A546B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6410.15 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 800,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G68 MC5, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; 23049PCD8G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6480.89 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 851,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 642L, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2244A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.6550.99 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 800,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 619, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; XT2401-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6720.12 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 873,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 750, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; Sony XQ-BT52) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6090.81 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 800,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 619, OpenGL ES 3.2)",
+    "hardwareConcurrency": 6,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; TECNO LH7n) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6250.2 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 851,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G57 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; RMX3840) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.6384.99 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 800,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 710, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S9310) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.6920.4 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 780,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Xclipse 940, OpenGL ES 3.2)",
+    "hardwareConcurrency": 10,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; ALN-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.6450.15 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 892,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Maleoon 910, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; Meizu 21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6800.100 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 852,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 750, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; A101XM) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6500.22 Mobile Safari/537.36",
+    "screenWidth": 390,
+    "screenHeight": 844,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 619, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; Lenovo XT2307-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.6350.19 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 873,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G77 MC9, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; 2311DRK48G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6600.5 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 852,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G610 MC6, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; A063) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.6650.55 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 800,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 710, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; Sony XQ-CC72) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6200.55 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 800,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 619, OpenGL ES 3.2)",
+    "hardwareConcurrency": 6,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; CPH2607) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6480.11 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 800,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 619, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2318A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6780.12 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 852,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 720, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; Pixel 10 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7010.5 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 892,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G725, OpenGL ES 3.2)",
+    "hardwareConcurrency": 10,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; LG-F800S) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6120.41 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 720,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 530, OpenGL ES 3.2)",
+    "hardwareConcurrency": 6,
+    "deviceMemory": 4
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; RMX3999) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6510.12 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 800,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G57 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; 2311FRAF4G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6410.55 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 851,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 610, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; iQOO 12 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6720.90 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 915,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 750, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; Infinix X6831) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6300.11 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 808,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G52 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 4
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A356B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.6550.10 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 800,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G68, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.6450.41 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 873,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 740, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; CPH2525) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6200.41 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 800,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G68 MC4, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; 23113RKC6G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6510.15 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 852,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G610 MC6, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2303) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6090.88 Mobile Safari/537.36",
+    "screenWidth": 392,
+    "screenHeight": 853,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 642L, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; RMX3708) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.6350.25 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 915,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 730, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; CPH2449) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.6550.60 Mobile Safari/537.36",
+    "screenWidth": 411,
+    "screenHeight": 914,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 740, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; Pixel 8 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6480.95 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 892,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G715, OpenGL ES 3.2)",
+    "hardwareConcurrency": 10,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; XQ-CT72) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6250.80 Mobile Safari/537.36",
+    "screenWidth": 384,
+    "screenHeight": 844,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 730, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; XT2301-4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.6384.85 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 851,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 740, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; Infinix X6837) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6120.66 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 808,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G57 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; Tecno CL6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.6650.32 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 853,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G57 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; A106) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6300.101 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 916,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 642L, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; Meizu 20) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6720.10 Mobile Safari/537.36",
+    "screenWidth": 392,
+    "screenHeight": 851,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 740, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; LM-G900N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6090.112 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 801,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 620, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-F946B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6500.80 Mobile Safari/537.36",
+    "screenWidth": 384,
+    "screenHeight": 904,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 740, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; 22101320G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6410.99 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 850,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 642L, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; CPH2307) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.6350.40 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 917,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 730, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2324A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6600.90 Mobile Safari/537.36",
+    "screenWidth": 411,
+    "screenHeight": 916,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Immortalis-G720 MC12, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; RMX3363) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6120.12 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 802,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 642L, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; CPH2583) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6780.20 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 853,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 730, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; MNA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6480.12 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 894,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 730, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; Pixel 7a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.6450.55 Mobile Safari/537.36",
+    "screenWidth": 411,
+    "screenHeight": 912,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G710, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; XQ-EC72) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6200.70 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 803,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 619, OpenGL ES 3.2)",
+    "hardwareConcurrency": 6,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; XT2243-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6300.41 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 850,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 730, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; Tecno LH8n) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.6890.10 Mobile Safari/537.36",
+    "screenWidth": 392,
+    "screenHeight": 851,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G57 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; Meizu 21 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.6920.25 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 853,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 750, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; LM-V600) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6090.15 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 804,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 650, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A556B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6720.33 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 805,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Xclipse 530, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; 2312DRA50G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.6550.82 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 853,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 710, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; CPH2173) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6120.101 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 806,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 660, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; I2202) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6250.99 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 874,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 740, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; RMX3612) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6200.12 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 807,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G57 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; CPH2411) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6410.12 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 850,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 730, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; CET-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6300.5 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 914,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 730, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6800.15 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 891,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G715, OpenGL ES 3.2)",
+    "hardwareConcurrency": 10,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; XQ-DE72) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.6384.50 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 809,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 740, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; XT2331-1.2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6090.62 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 810,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G52 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 4
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-M546B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.6350.11 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 811,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G68, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; 21061119AL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6090.77 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 850,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G57 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; CPH2505) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6250.15 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 812,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 619, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2207) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6200.99 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 813,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G68 MC4, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; RMX3830) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.6650.60 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 814,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 610, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; CPH2573) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6780.45 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 918,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 750, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; JAD-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6090.99 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 920,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 660, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; Pixel 6a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6120.40 Mobile Safari/537.36",
+    "screenWidth": 411,
+    "screenHeight": 891,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G78, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-S908B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6510.88 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 875,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Xclipse 920, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; 23078PND5G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6480.52 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 851,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G610 MC6, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; CPH2207) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6090.2 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 815,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 620, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; I2219) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.6450.10 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 852,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G610 MC4, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; RMX3741) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6410.80 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 816,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G57 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-F731B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6250.88 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 822,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 740, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; CPH2487) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6120.45 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 876,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 619, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; 23117RK66C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.6650.12 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 922,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 750, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2231A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6090.95 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 855,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G715 MC11, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; RMX3888) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6500.52 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 856,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 743, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; CPH2609) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.6550.88 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 825,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G57 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9 Pro XL) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.6890.15 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 893,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G715, OpenGL ES 3.2)",
+    "hardwareConcurrency": 10,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; XQ-CC54) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.6350.62 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 804,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 619, OpenGL ES 3.2)",
+    "hardwareConcurrency": 6,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; XT2307-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.6384.66 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 878,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G77 MC9, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; Infinix X663) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6120.15 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 808,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G52 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; Tecno LH6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6480.99 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 858,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G57 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; A063) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6300.90 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 918,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 710, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; Meizu 21 Note) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6600.41 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 859,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 730, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; LG-H932) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6090.99 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 724,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 540, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 4
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A256B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6510.12 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 801,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G68, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6200.52 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 861,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 730, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; CPH2371) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6410.11 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 921,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G68 MC4, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2302A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6720.5 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 862,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 720, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; RMX3311) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6120.5 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 806,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 660, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; CPH2513) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6800.8 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 863,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G610 MC4, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; ALN-L21) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6780.11 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 895,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Maleoon 910, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; Pixel 7 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.6450.92 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 892,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G710, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; XQ-CD52) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6200.11 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 800,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 619, OpenGL ES 3.2)",
+    "hardwareConcurrency": 6,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; XT2401-2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.6920.1 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 879,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 750, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; Tecno CL6s) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6600.2 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 864,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G57 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; Meizu 21 PRO) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7010.15 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 912,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 750, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; LM-V600EA) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6090.5 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 802,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 650, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A5560) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6720.2 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 803,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Xclipse 530, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; 23122PCD1G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6480.101 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 865,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G610 MC4, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; CPH2197) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6120.9 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 805,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 610, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; I2201) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6300.2 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 880,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 740, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; RMX3611) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6200.2 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 807,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G57 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 4
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; CPH2409) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.6350.1 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 851,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G57 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; CET-AL00V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6090.8 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 915,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 730, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; Pixel 9a) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6800.10 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 891,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G715, OpenGL ES 3.2)",
+    "hardwareConcurrency": 10,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; XQ-DE52) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.6384.2 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 810,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 740, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; XT2331-2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6120.1 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 811,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G52 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 4
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-M5460) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6250.1 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 812,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G68, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; 21061119C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6090.22 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 852,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G57 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; CPH2501) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6200.5 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 813,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 619, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2202) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.6350.5 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 814,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G68 MC4, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; RMX3831) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.6550.2 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 815,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 610, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; CPH2575) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.6650.2 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 919,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 750, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; JAD-AL50) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6090.35 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 921,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 660, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; Pixel 6 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6120.3 Mobile Safari/537.36",
+    "screenWidth": 411,
+    "screenHeight": 892,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G78, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-S901B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6410.2 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 780,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Xclipse 920, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; 23078PND5C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.6450.2 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 853,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G610 MC6, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; CPH2201) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6090.1 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 816,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 620, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; I2218) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6480.1 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 854,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G610 MC4, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; RMX3740) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6510.1 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 817,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G57 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-M346B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.6350.12 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 801,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G68 MC4, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; CPH2531) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6120.72 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 857,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G610 MC6, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; 23116PN5BC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.6384.15 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 858,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 750, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2241A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6090.45 Mobile Safari/537.36",
+    "screenWidth": 392,
+    "screenHeight": 854,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 740, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; RMX3851) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.6650.28 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 917,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 732, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; CPH2611) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6480.11 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 828,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G57 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 9 Pro Fold) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6800.55 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 887,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G715, OpenGL ES 3.2)",
+    "hardwareConcurrency": 10,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; XQ-DC50) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6200.10 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 805,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 619, OpenGL ES 3.2)",
+    "hardwareConcurrency": 6,
+    "deviceMemory": 4
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; XT2309-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6500.99 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 881,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G77 MC9, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; Infinix X665) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6090.81 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 818,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G52 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 4
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; Tecno KJ7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.6550.5 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 861,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G57 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; A065) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6250.75 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 919,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 730, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; Meizu 21 Custom) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6780.88 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 862,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 750, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; LG-H933) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6090.11 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 725,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 540, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 4
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A256U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6600.44 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 802,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G68, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; 2211133F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6300.22 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 863,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 730, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; CPH2372) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6410.8 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 922,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G68 MC4, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2303A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6720.92 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 864,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 720, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; RMX3312) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6120.1 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 807,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 660, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; CPH2515) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.6890.10 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 865,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G610 MC4, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; ALN-L22) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6510.99 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 896,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Maleoon 910, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; Pixel 7 Custom) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.6450.43 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 893,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G710, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; XQ-CD53) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6200.101 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 801,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 619, OpenGL ES 3.2)",
+    "hardwareConcurrency": 6,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; XT2401-3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7010.4 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 880,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 750, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; Tecno CL6t) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6600.12 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 866,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G57 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; Meizu 21 LITE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.6920.40 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 913,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 740, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; LM-V600VM) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6090.22 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 803,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 650, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A556U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6720.12 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 804,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Xclipse 530, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; 23122PCD1I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6480.99 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 867,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G610 MC4, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; CPH2199) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6120.44 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 806,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 610, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; I2203) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6300.99 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 882,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 740, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; RMX3613) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6200.12 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 808,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G57 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 4
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; CPH2413) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.6350.5 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 853,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G57 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; CET-AL10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6090.5 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 917,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 730, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; Pixel 9b) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6800.5 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 893,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G715, OpenGL ES 3.2)",
+    "hardwareConcurrency": 10,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; XQ-DE53) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.6384.10 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 812,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 740, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; XT2331-3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6120.2 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 813,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G52 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 4
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-M546U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6250.22 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 814,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G68, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; 21061119U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6090.52 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 854,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G57 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; CPH2503) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6200.12 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 815,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 619, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2203A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.6350.12 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 816,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G68 MC4, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; RMX3832) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.6550.81 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 817,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 610, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; CPH2577) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.6650.5 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 920,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 750, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; JAD-AL60) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6090.52 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 922,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 660, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; Pixel 6 Custom Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6120.1 Mobile Safari/537.36",
+    "screenWidth": 411,
+    "screenHeight": 893,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G78, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-S901U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6410.5 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 781,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Xclipse 920, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; 23078PND5I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.6450.5 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 854,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G610 MC6, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; CPH2203) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6090.5 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 817,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 620, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; I2220) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6480.2 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 855,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G610 MC4, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; RMX3742) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6510.2 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 818,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G57 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S711B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6410.12 Mobile Safari/537.36",
+    "screenWidth": 384,
+    "screenHeight": 832,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Xclipse 930, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; CPH2499) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6120.85 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 782,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 740, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2251) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.6384.90 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 870,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 720, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; 2306EPN60G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6090.72 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 910,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 740, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; RMX3820) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6510.41 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 845,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 710, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; PJD110) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6720.15 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 925,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 750, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; XT2403-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6500.32 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 855,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 720, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; GPJV1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6250.60 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 880,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G715, OpenGL ES 3.2)",
+    "hardwareConcurrency": 10,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; XQ-DQ54) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.6350.50 Mobile Safari/537.36",
+    "screenWidth": 384,
+    "screenHeight": 900,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 740, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; CL9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6800.12 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 860,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G57 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; X6850) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.6550.99 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 804,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G57 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; HMY-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6600.22 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 890,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Maleoon 910, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2338A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6480.15 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 915,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 750, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; A161) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6300.10 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 830,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G610 MC4, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-A346B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6200.5 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 820,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G68 MC4, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; CPH2599) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.6650.3 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 840,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G610 MC6, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2307) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6780.4 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 815,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 619, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; 2312DRA50C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6120.2 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 855,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 642L, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; RMX3890) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.6890.5 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 760,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 610, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; CPH2613) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.6920.8 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 870,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 720, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; XT2347-2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6090.15 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 824,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 619, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 4
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; XQ-DC54) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6250.5 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 800,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 619, OpenGL ES 3.2)",
+    "hardwareConcurrency": 6,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; LI9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.6550.15 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 863,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G68, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; X6838) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6300.95 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 808,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G52 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 4
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; ALN-AL80) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6720.2 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 892,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Maleoon 910, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2352A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6500.5 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 870,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 720, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A156B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6480.90 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 800,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G68 MC4, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; CPH2529) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.6350.2 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 873,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 619, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2324D) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6600.55 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 915,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Immortalis-G720 MC12, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; 24030PN60G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6800.5 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 852,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 750, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; RMX3823) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.6384.8 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 856,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 730, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; CPH2551) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6120.1 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 935,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 740, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; XT2453-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7010.5 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 836,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 732, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; GVU6C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6090.5 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 892,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G710, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; XQ-DE54) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.6384.15 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 800,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 740, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; KJ8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6510.10 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 863,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G57 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; X6731) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6250.22 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 910,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G77 MC9, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; ADA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.6550.55 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 895,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Maleoon 910, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2339A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.6650.12 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 917,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Immortalis-G720 MC12, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-M556B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6500.80 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 800,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 642L, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; PHY110) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6720.90 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 921,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 750, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2325A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6600.41 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 852,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G720, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; 23124RA7EO) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6200.52 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 851,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 610, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; RMX3850) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.6890.30 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 917,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 732, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; CPH2569) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.6350.81 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 800,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G57 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; XT2403-4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6780.88 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 855,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 720, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; GB7N6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6090.8 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 892,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G78, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; SO-53C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6120.45 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 800,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 619, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 4
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; L71091) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6090.99 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 870,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 730, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; A064) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6500.45 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 855,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G610 MC4, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S921B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6480.25 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 803,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Xclipse 940, OpenGL ES 3.2)",
+    "hardwareConcurrency": 10,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; CPH2603) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6200.80 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 853,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G610 MC6, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2319) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6090.52 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 916,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 720, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; 24069PC21G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.6650.15 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 893,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 735, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; 23090RA98G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.6350.41 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 874,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G610, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; RMX3861) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.6550.60 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 781,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G57 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6780.5 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 892,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G715, OpenGL ES 3.2)",
+    "hardwareConcurrency": 10,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; XT2301-5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6250.92 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 857,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 740, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; XQ-ES54) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6120.40 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 800,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 619, OpenGL ES 3.2)",
+    "hardwareConcurrency": 6,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; Infinix X6851) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.6450.12 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 856,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G710 MC10, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; TECNO LI7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.6384.99 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 855,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G57 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; A103) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6510.45 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 915,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 730, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; LM-K510N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6090.81 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 720,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 506, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 4
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; M181Q) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6300.22 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 858,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 660, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2354A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6600.12 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 852,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 740, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S926B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6720.55 Mobile Safari/537.36",
+    "screenWidth": 384,
+    "screenHeight": 854,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Xclipse 940, OpenGL ES 3.2)",
+    "hardwareConcurrency": 10,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; CPH2589) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6500.32 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 801,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G610 MC6, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2314) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6800.2 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 873,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 619, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; 24069PC21I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.6920.4 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 917,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 740, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; 2312DRA50I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6410.99 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 851,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G610 MC4, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; RMX3842) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6480.89 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 859,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 710, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; CPH2519) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6120.98 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 815,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 619, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; Pixel Fold) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.6890.33 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 895,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G710, OpenGL ES 3.2)",
+    "hardwareConcurrency": 10,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; XT2303-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.6650.32 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 878,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G77 MC9, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; XQ-EC54) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6200.70 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 804,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 619, OpenGL ES 3.2)",
+    "hardwareConcurrency": 6,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; Infinix X6833) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.6350.5 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 808,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G57 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; TECNO LH8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.6550.21 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 850,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G57 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-M356B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6780.4 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 802,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G68, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; CPH2639) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.6384.85 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 875,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Immortalis-G720 MC12, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2318) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6250.71 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 861,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 619, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; RMX3993) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6500.41 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 863,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 732, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; CPH2423) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.6450.43 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 854,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G77 MC9, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6720.12 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 891,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G710, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; XT2409-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6600.90 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 880,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 720, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A556E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.6890.10 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 800,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Xclipse 530, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; CPH2579) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6510.15 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 921,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 740, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2330) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.6550.88 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 870,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G720, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; 2311FRAF4I) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6090.95 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 855,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 610, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 6
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; RMX3841) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7010.5 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 862,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 710, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; Infinix X6711) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6300.101 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 918,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G77 MC9, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A356E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.6650.55 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 804,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G68, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; CPH2615) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6780.88 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 810,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G57 MC2, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; 24053PY09G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.6384.112 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 920,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 730, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-F956B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6500.45 Mobile Safari/537.36",
+    "screenWidth": 384,
+    "screenHeight": 904,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 750, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; CPH2641) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6600.5 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 876,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 750, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; RMX3995) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6200.55 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 864,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 732, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; Pixel 9 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7010.15 Mobile Safari/537.36",
+    "screenWidth": 412,
+    "screenHeight": 892,
+    "webglVendor": "Google Inc. (ARM)",
+    "webglRenderer": "ANGLE (ARM, Mali-G715, OpenGL ES 3.2)",
+    "hardwareConcurrency": 10,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-F741B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6720.90 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 822,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 750, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; 23127PN0CC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6410.15 Mobile Safari/537.36",
+    "screenWidth": 393,
+    "screenHeight": 852,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 750, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-C5560) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6090.43 Mobile Safari/537.36",
+    "screenWidth": 360,
+    "screenHeight": 800,
+    "webglVendor": "Google Inc. (Qualcomm)",
+    "webglRenderer": "ANGLE (Qualcomm, Adreno (TM) 710, OpenGL ES 3.2)",
+    "hardwareConcurrency": 8,
+    "deviceMemory": 8
+  }
+]
