@@ -1,0 +1,2502 @@
+[
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; V2230AC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6924.139 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 740"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; PHN1100) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7075.154 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 750"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; M2011K2G0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7087.223 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 720"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-M546B0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.6627.126 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Samsung Electronics)",
+    "Unmasked Renderer": "ANGLE (Samsung, Xclipse 940, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; XQ-EC54G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.7059.203 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 619"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; 23013PC75G/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7015.195 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G52 MC2, Vulkan 1.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; SM-A356EW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6957.141 Mobile Safari/537.36",
+    "Unmasked Vendor": "Samsung Electronics",
+    "Unmasked Renderer": "Xclipse 530"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; CPH2449U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.6739.118 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-T830"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; G8V0UY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.6312.240 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G715 MP7, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; G9S9B-AY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6344.186 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G78 MP20, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; RMX37710) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.6755.212 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G68 MC2, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2339A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.6511.237 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 306"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; CPH2173U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6667.154 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G715 MP7, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SNE-LX1F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.7079.240 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G77 MC11"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; V2303N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6353.186 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 644, Vulkan 1.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; RMX3393G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6791.242 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 506, Vulkan 1.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; 2201123GU) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6516.102 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 690"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; XT2313-1/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.6228.144 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 685, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; YAL-L21U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6308.212 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G720 MP12, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; L78011N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6732.205 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 730"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; LM-K410SU) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.6418.131 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 630, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; Lenovo YT-K606F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6373.187 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-T860, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; AD10W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.6042.235 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G715 MC10, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; V2204C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6736.187 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G76 MP12, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; XT2201-1N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.6500.242 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 612, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; XQ-AS52Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6910.244 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 685"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; XT2235-1G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.6151.199 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 750, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; X6823CN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7069.183 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G310, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; M2007J20CG/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.6678.235 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G52 MC1"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; A065U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6690.226 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 418"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; TB-J606FG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6687.139 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G57 MC1, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; X6515U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6448.111 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-T860"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; 2210132CY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6112.200 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 540"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; A063/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6719.242 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 735"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; TB-X606FU1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6096.223 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G78 MP24, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; RMX3709W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6080.164 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G720 MP12, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; RMX3820C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.6566.167 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G68 MC4"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; CPH2437N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6623.195 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G76 MP10, Vulkan 1.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; 21061110AGE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.6818.210 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G720 MP12, Vulkan 1.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; A161C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.7028.228 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 530"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; ALN-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6503.127 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 304"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; XT2313-10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.6444.169 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 430, Vulkan 1.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; JAD-AL00E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6632.115 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G610 MC6, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; ANY-NX1F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6556.146 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G76 MP12"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; 2201116PG0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6325.233 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 304, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; XQ-BT52U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.7006.243 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 690, Vulkan 1.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; A1060) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.6280.249 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 660"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; LM-V450U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6822.155 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 830, Vulkan 1.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; 22011211GF) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6168.207 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G610 MC4"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; TB-128FUE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6884.246 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 720"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-F731UN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.6514.168 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Samsung Electronics)",
+    "Unmasked Renderer": "ANGLE (Samsung, Xclipse 940, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; 22101316IY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6875.244 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 740, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; 2210132CW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6292.215 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 830"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; CG6F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6047.206 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G715 MP7"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-S926UG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6811.225 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Samsung Electronics)",
+    "Unmasked Renderer": "ANGLE (Samsung, Xclipse 530, Vulkan 1.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; 23117RA68GE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6057.139 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G31 MP2, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; CHL-LX1W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6824.132 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 612, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; A065C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7024.145 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 306"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; V2217AY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.7011.207 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 620, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; RMX3393N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6965.190 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 610, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-F731UW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6005.218 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G78 MP14, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; 2210132CF) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7018.170 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 630"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-A346BY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.6703.194 Mobile Safari/537.36",
+    "Unmasked Vendor": "Samsung Electronics",
+    "Unmasked Renderer": "Xclipse 940"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; 2107113SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.7001.247 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 650"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; L79031Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.6638.138 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G78 MP10, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-M536BU) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6633.228 Mobile Safari/537.36",
+    "Unmasked Vendor": "Samsung Electronics",
+    "Unmasked Renderer": "Xclipse 540"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; HMA-L29E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6547.215 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-T880"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; RMX3241E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.6879.106 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 710, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; CG6/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6938.205 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G72 MP3"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; TB-J706FG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.6198.137 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G52 MC2, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; 21091116UGE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6341.177 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G51 MP4, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2318F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6619.135 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-T880, Vulkan 1.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; 23117RA68GY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6205.185 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G52 MC2"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; X695DC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7048.165 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G76 MP12, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; CK6nU1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6333.168 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G77 MC11"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; AD8F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6815.238 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G720 MC12, Vulkan 1.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; 2201116SGW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6498.201 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G76 MP12"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; G9S9BY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6174.232 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G710 MP7"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; X680FE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6562.246 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G51 MP4"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; CPH2205W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.6032.188 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G720 MC12"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; XT2213-1/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.6987.223 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 530, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; RKY-NX1C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6436.109 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G715 MC10, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; XQ-CT54F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6265.210 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 608"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; V2231A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6430.245 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 640"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; CPH2577G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6598.214 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 506"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-S901N0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6269.112 Mobile Safari/537.36",
+    "Unmasked Vendor": "Samsung Electronics",
+    "Unmasked Renderer": "Xclipse 540"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; CHL-LX1C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7064.215 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 506"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; TB-350FUU1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7040.100 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G76 MP10"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; M2007J20CG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6910.157 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 660"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; CH9nW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6272.123 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G31 MP2, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; TB-128FUF) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6431.182 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-T830, Vulkan 1.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; I2212E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6554.115 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 702"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; 22101316GU1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6962.244 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 702, Vulkan 1.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; G10D3F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6139.174 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G715 MP7"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; G9S9B-AU1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.6276.152 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G78 MP20"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; RMX3709G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6733.135 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G610 MC4, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; I2208W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.6577.124 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 430, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; 2210132CU1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6147.140 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 508, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; GE2AEE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.7016.168 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Samsung Electronics)",
+    "Unmasked Renderer": "ANGLE (Samsung, Xclipse 530, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; G9S9BF) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6963.121 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Samsung Electronics)",
+    "Unmasked Renderer": "ANGLE (Samsung, Xclipse 920, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; L71021G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6986.122 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 505, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; LM-K520Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6312.135 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 690"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; LGE-NX9Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6564.121 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G510, Vulkan 1.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; G9S9B-A0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.6165.133 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G715 MC10"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; V2231AE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6053.147 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 680, Vulkan 1.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; X6811D/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7069.175 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G610 MC4, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; SM-N986BU) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6705.212 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G57 MC1, Vulkan 1.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; SM-A156BN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7073.217 Mobile Safari/537.36",
+    "Unmasked Vendor": "Samsung Electronics",
+    "Unmasked Renderer": "Xclipse 540"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; XQ-EC54Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6949.204 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 618"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; GP4BCU) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6728.213 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G715 MP7, Vulkan 1.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; XT2301-4Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.6533.250 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 510, Vulkan 1.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; XQ-CQ72E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6562.216 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 508, Vulkan 1.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; XQ-AT52U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6657.192 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 680, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; CPH2207U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6065.149 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G68 MC2, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; X6711E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.6398.215 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G715 MP11, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; CG6G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6982.190 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G71 MP8, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; XQ-CT54W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.6934.157 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 730, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; WNY-NX9/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.6693.198 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G72 MP18, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2324A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6222.127 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 640, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; A063E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.7072.153 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 616"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SNE-LX1G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.6563.176 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G610 MC6, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; ANY-NX1W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6023.220 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 725, Vulkan 1.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; M2102K1GU) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6994.216 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 735, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; CK7n) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6983.102 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G68 MC4, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; CLK-NX1E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6073.171 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G78 MP24, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; CPH2581G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.6609.184 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G710 MC9"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; MNA-AL00Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6905.238 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G715 MC11, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; RMX3521E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6869.162 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G76 MP16"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; RMX3001U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.6586.195 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G710 MC10, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; L71021N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.6904.224 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G720 MP12, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; Lenovo YT-K606F0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6253.149 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 430"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; CPH2205N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.6891.244 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G68 MC2, Vulkan 1.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; ALN-AL000) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7054.239 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G720 MC9, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; RMX3370) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6255.245 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G51 MP4"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; A063W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6766.113 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 643, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; X669E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7075.245 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G720 MP12"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; 23117RA68G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7093.184 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G57 MC2"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; I2126U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6348.244 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 730, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; GX7ASG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.7019.161 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G710 MP7"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; I2220/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.6038.216 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 725, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; X669/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6855.104 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G78 MP14, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; 2312DRAF3G/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7052.215 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G715 MC11"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; A001G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.6333.167 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 702"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; CPH1931U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6311.171 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G72 MP18, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; X6831Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6203.195 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-T880, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; 21091116UG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.6362.233 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G720 MC9"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; X6515E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6545.213 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G72 MP3"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; G6QU3N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6998.224 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 418, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; M2291E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6701.140 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 730, Vulkan 1.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; 21061110AGU) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.6882.101 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 725, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; X669U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.6587.169 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-T820"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; X68310) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6217.145 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G720 MC12, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; 23013PC75GW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.6241.188 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 612, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; X6833BE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6474.180 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G710 MC10"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; CPH21730) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.6569.175 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G57 MC1, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; CPH2449F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6641.145 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G715 MP7, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; 2201116PG/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.6163.143 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G710 MC10, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; JNY-LX1U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.6041.240 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G77 MC9, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; VNE-N41U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.6445.132 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G77 MC9"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; XT2307-1U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.6646.128 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 420, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; 2304FPN6DG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6072.119 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 642L, Vulkan 1.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; YAL-L21C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.7073.248 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G72 MP18"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; XT2153-1U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.6611.248 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 620, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; I2202G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6000.113 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 619, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; HJC-NX9W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6853.249 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 430, Vulkan 1.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; LM-K410S) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6631.151 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 610"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; X6711G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6963.214 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G78 MP24"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; SM-M546BU) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6789.184 Mobile Safari/537.36",
+    "Unmasked Vendor": "Samsung Electronics",
+    "Unmasked Renderer": "Xclipse 940"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; XT2213-1N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6267.106 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 740"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; GE2AE-AE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6921.189 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G78 MP20, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; 22101316IE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.6396.224 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-T880, Vulkan 1.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; X693G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6275.227 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G57 MC2"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; RMX3521U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6746.222 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G715 MC10, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2220AY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6236.242 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G510, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; 23124RA8RIU1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.6117.235 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G78 MP10"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; CPH2359) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6541.189 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G71 MP8, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SOG01E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.6751.231 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 610"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; I2011U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6113.165 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 735, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-S901NN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.7077.110 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Samsung Electronics)",
+    "Unmasked Renderer": "ANGLE (Samsung, Xclipse 530, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; LM-K520N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6029.139 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 418, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; CPH22690) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.6706.130 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G715 MP11, Vulkan 1.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; CG6Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.7098.212 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G510, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; A106U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.6109.198 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 616, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; CPH2173C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.6248.145 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 430, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; G10D3AY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6381.206 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G715 MP7"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; RMX3561F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6120.152 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G72 MP18, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; X6833BN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6118.204 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G51 MP4, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; 23122PCD1GC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.6741.231 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G71 MP8"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; M20910) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6121.211 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 630, Vulkan 1.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; V2025AU) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.6902.215 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G78 MP24, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; I2202Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6005.115 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 620"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; XT2213-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.6936.182 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 418, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; TB-350FUE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.6112.205 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G78 MP10, Vulkan 1.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; V2204/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6186.146 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-T830, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; SNE-LX1W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6043.152 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G71 MP8"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; A001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6474.172 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 750"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; 23076RA4BCN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6013.231 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 508"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; PJD110N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6044.188 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-T760, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; VOG-L29F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.6789.247 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G51 MP4, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; TB-X606FY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.6021.183 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G710 MP10"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; 21081111RGF) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.6454.200 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 702, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; LH7nY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6848.248 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-T720, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; A161N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6021.235 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 710"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; 22021211RCY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6864.100 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G77 MC9, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; ELS-NX9F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.6975.164 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G57 MC1"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; TNY-NX1E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6913.163 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 660, Vulkan 1.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; XT2331-1.2C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6394.145 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 506, Vulkan 1.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; 23124RA8RIN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.6747.230 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G76 MP10, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; A0650) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6251.170 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 735, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; RMX3370N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6397.236 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G710 MC10, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; A161U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6721.163 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 730"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; X6823C/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.6373.238 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G310"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; A106W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6346.187 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 530, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; 24030PN60GN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6357.215 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 618"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-S908BU) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.6697.177 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Samsung Electronics)",
+    "Unmasked Renderer": "ANGLE (Samsung, Xclipse 940, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; I2202N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.6786.209 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 615"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; A063C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6021.220 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 660, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; XT2335-1G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.6992.114 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 750"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; G5301Q) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6140.174 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Samsung Electronics)",
+    "Unmasked Renderer": "ANGLE (Samsung, Xclipse 930, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; L78011U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.6332.178 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G710 MC10, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; 2210132GE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.6456.109 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 680"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; CPH2307F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.6680.232 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G78 MP14, Vulkan 1.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2111E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.6115.248 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G610 MC4, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; V2188AW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6277.204 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 643, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; CPH25210) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6120.129 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G71 MP8, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; CPH1931N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6881.120 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G610 MC4, Vulkan 1.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; RMX3241G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6161.197 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-T860, Vulkan 1.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; A063G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6786.151 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 702, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; X6831U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.6473.217 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G52 MC2"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-M536B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.6383.218 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Samsung Electronics)",
+    "Unmasked Renderer": "ANGLE (Samsung, Xclipse 540, Vulkan 1.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; I2220G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6207.209 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 540, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; 2210132C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6150.146 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 643, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; X695DW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6680.215 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G31 MP2"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; XQ-EC54E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6706.179 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 735, Vulkan 1.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; CET-AL00G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6863.178 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G710 MP10"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; LM-K520G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6747.236 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 830"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; I22050) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6973.233 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 725, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; M2191C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.6335.144 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 690, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2024A0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6690.176 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G52 MC1, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; CK7nF) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6077.170 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G610 MC4"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; M21910) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.6792.103 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 306, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; L79031C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.6379.150 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G715 MC11"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-A156BU) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6609.150 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G71 MP8, Vulkan 1.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; LM-K520E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.6393.144 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 430, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; CG60) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.6237.227 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G720 MP12"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; 21091116UGW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6154.234 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-T760, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; M1991) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.6275.179 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 702, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; CK7nU) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6706.238 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G715 MP7"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; L70081) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6036.233 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 643"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; X6850G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6209.185 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G78 MP24"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; M2007J20CG0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6156.205 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G68 MC2"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; ANY-AN00E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6580.165 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G52 MC2, Vulkan 1.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; X6815B0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6510.226 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G78 MP24, Vulkan 1.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; L70081Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6953.171 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 630, Vulkan 1.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; RMX3709U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6090.124 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-T760"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; 23076RA4BCG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.6717.103 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-T820"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; V2188AU) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6778.124 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 508, Vulkan 1.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; GB17L/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6927.232 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G78 MP20"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; M2012K11AGE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.6815.148 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G610 MC6"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; M2181U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.6520.192 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 640, Vulkan 1.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; CHL-LX10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6180.216 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G310, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; 22081212UGN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6752.204 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 405"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; XT2343-1Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.6793.181 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 630"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; X6525U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.6002.219 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-T760, Vulkan 1.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; 2201122GU) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6664.243 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 540, Vulkan 1.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; SM-M146B0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.6815.106 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Samsung Electronics)",
+    "Unmasked Renderer": "ANGLE (Samsung, Xclipse 920, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; XT2343-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6823.197 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 304, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; 23028RA60GU) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6420.222 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-T860, Vulkan 1.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; SM-A146BW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6113.218 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Samsung Electronics)",
+    "Unmasked Renderer": "ANGLE (Samsung, Xclipse 530, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; X6837) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6696.124 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G72 MP3, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; TB-128FUU) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6963.160 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 505, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; M1991F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.6197.153 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 680, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; CPH2269/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6556.135 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 740, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; M2181) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.7095.145 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 616"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; SM-G990B0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.6926.159 Mobile Safari/537.36",
+    "Unmasked Vendor": "Samsung Electronics",
+    "Unmasked Renderer": "Xclipse 930"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; 23078PND5GU1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6736.201 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G715 MC11, Vulkan 1.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-S921BY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6411.246 Mobile Safari/537.36",
+    "Unmasked Vendor": "Samsung Electronics",
+    "Unmasked Renderer": "Xclipse 920"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; GX7ASE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7036.162 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G31 MP2"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; CPH2269N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6983.233 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-T760, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; XT2331-1.2W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6691.108 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 640"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; RMX3393/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6537.143 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 644, Vulkan 1.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; V2158F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.7027.183 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G68 MC4, Vulkan 1.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; 2210132GF) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6956.227 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 512"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2313AW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6260.142 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-T720"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; 23090RA98GW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7003.214 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G78 MP10"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; A063) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6524.126 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 618, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2324AN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6015.232 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 735, Vulkan 1.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; 23129RAA4GU) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7036.185 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 304, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; A065/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6741.248 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 750, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; XT2235-1F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6648.180 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 610, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; RMX3191) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.6304.107 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G72 MP3, Vulkan 1.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; G037GE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6929.171 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G710 MP10"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; CPH1931E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.6840.180 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G720 MC12, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; A063F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6232.208 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 420, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; XQ-BT52U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6239.225 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 420"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; XT2309-1/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6205.170 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 830, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; XQ-AU52C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6952.164 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 615, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-A356EU) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6627.205 Mobile Safari/537.36",
+    "Unmasked Vendor": "Samsung Electronics",
+    "Unmasked Renderer": "Xclipse 940"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; ANY-AN00U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6833.152 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-T820"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; A001/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6019.210 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 702, Vulkan 1.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; XT2343-1C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.6532.239 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 405"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; KJ6U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6553.199 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G52 MC1"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; LI7E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6527.170 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G57 MC1, Vulkan 1.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; TAS-AL00F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6012.105 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G720 MC9, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; TB-128FUW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6298.145 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G76 MP16"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; V2204G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6757.219 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 530"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; L78011C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6022.153 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 540, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; SO-51BF) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.6702.187 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 530, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; SM-N986BW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.7033.250 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-T820, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; L70081C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6909.228 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G710 MP10, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; 21091116AGY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6801.240 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G710 MC9, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; 22111317GN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6881.129 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 612, Vulkan 1.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; SOG01Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6195.147 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 740, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; 23116PN5BCC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7008.129 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 725"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; L780110) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7100.210 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G51 MP4, Vulkan 1.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; X6850E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6689.193 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G715 MP11"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; CPH2371G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6039.246 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G715 MP11"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SO-52BU) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6957.194 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 644, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; V2217AU1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.6118.114 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 530, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; V2217AE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6929.132 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 640, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; CH6nU1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6036.143 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-T830, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; X6811DY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.6363.146 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G715 MP11, Vulkan 1.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; KJ60) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.6911.216 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-T820, Vulkan 1.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; 23127PN0CGU1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6308.201 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 509"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; GE2AE-AU1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6669.166 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G720 MC9, Vulkan 1.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-G781BC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6760.163 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Samsung Electronics)",
+    "Unmasked Renderer": "ANGLE (Samsung, Xclipse 930, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; SM-A346BN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6229.181 Mobile Safari/537.36",
+    "Unmasked Vendor": "Samsung Electronics",
+    "Unmasked Renderer": "Xclipse 530"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-M346BU1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.6745.107 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Samsung Electronics)",
+    "Unmasked Renderer": "ANGLE (Samsung, Xclipse 930, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; I2208U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.6325.155 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 643, Vulkan 1.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; M1882F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6690.193 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 643"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; M1882/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.6092.110 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 642"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; XQ-DQ72U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6572.230 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 512, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; LM-G900/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6590.105 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 420, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; 2105118SGE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.6227.167 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 608"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; LM-V600U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6586.214 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 304"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; A065N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6963.123 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 725, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; CPH2449) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6116.162 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 644"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; 2201123GY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6036.205 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 710, Vulkan 1.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; 23117RA68G/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6476.204 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G610 MC6"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; EBG-AN00N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6582.178 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G77 MC9"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; FNE-NX9E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.6330.146 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G310, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; LM-G820/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.6962.108 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 510"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; RMX3363/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6126.236 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 690, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; XT2235-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6937.180 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 615, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; 2311DRK48G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.6373.187 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G76 MP16, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; GP3OF0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6156.166 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G310"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; I2208C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.6993.148 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 509, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; 2211133G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6868.168 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 512"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; M2181C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6326.113 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 685"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; GF5KQY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.6732.224 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 418, Vulkan 1.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; V2303W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.6189.205 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G715 MC10"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; VOG-L29U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.6339.143 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G76 MP16, Vulkan 1.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; XT2343-1U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6118.205 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 620, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; L70081W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6270.121 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-T820, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; CPH2521G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6654.180 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-T720"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; G10D30) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6420.162 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G715 MP7, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; AD8E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6387.215 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G77 MC11, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; RMX33630) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6708.240 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 418"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; CPH2449N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6384.114 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G715 MC11, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; XT2301-4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6918.190 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 685"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; SM-F731UC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6308.107 Mobile Safari/537.36",
+    "Unmasked Vendor": "Samsung Electronics",
+    "Unmasked Renderer": "Xclipse 930"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; 2201123GN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.6166.176 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 616"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; M2007J22GU1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6840.219 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G610 MC4"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; 21091116AG/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6303.125 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 608, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; RMX3820N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.6462.164 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G710 MC9"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; M1981N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6969.199 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 512, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; G6QU3C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6976.159 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G710 MC10"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; 23053RN02Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.6947.153 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G715 MC10, Vulkan 1.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; VNE-N41/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.6828.191 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G510"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; M2191N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6688.134 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 420, Vulkan 1.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; M1892G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.6387.123 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 612, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; XQ-CT54) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.6212.186 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 725, Vulkan 1.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; CPH2493U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6553.150 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G68 MC2"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; HJC-NX9U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6138.193 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 530, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; LM-Q720U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.6753.184 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 710"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; CPH2207F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.6779.239 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G715 MC10"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; V2231AC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.6374.248 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 505"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; V2313A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6918.174 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 619, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; BG6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6872.133 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G68 MC4, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; V2231AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.6013.126 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 650, Vulkan 1.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; XQ-AS52G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.6576.214 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 619"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; 23122PCD1G0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6039.150 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G720 MP12, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; AD10F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6664.208 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G78 MP14"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; X6930) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6931.207 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G720 MC12"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; BVL-N49Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6916.158 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G77 MC9, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; SM-A736BW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.6770.235 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-T760"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; M2081C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.6811.234 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 430, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; TB-128FUC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6828.170 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G720 MP12, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; CPH2493U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6221.148 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G78 MP14"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; A106U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6936.157 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 710, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; SM-A146BU1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6203.128 Mobile Safari/537.36",
+    "Unmasked Vendor": "Samsung Electronics",
+    "Unmasked Renderer": "Xclipse 920"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; GB17LW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6004.134 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-T820, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; SM-M346BY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6945.125 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Samsung Electronics)",
+    "Unmasked Renderer": "ANGLE (Samsung, Xclipse 540, Vulkan 1.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; RMX3561Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6067.177 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-T720, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; 22081212UGE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6537.160 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-T860"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; LGE-NX9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6448.192 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G710 MC10, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; XT2093-4E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.6457.218 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 510, Vulkan 1.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; SO-52BF) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6965.187 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 630, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; LM-V600C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.7047.182 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 702"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; LM-Q730C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.7029.121 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 615"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2105G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6572.113 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-T880, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; KI5k/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6252.169 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G77 MC9"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; SM-F711BW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6997.201 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Samsung Electronics)",
+    "Unmasked Renderer": "ANGLE (Samsung, Xclipse 930, Vulkan 1.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; CRT-NX1G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6381.171 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G715 MP7, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; 2311DRK48GC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6486.192 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-T830, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; V2250C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6538.152 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G76 MP16"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; A106Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6582.244 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 509"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; V2324AW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.7080.110 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 618, Vulkan 1.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; A063U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6410.232 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 506, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; M2181E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6963.141 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 650"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; G9S9B-AN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6781.166 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G715 MP7, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; RMX3191Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6524.158 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 730, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; 23122PCD1GF) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.6955.122 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 642L"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; SOG01U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.6581.153 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 612"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; V2217AW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6969.170 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 530"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; RMX3241Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6241.200 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G77 MC9, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; CRT-AN00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.6727.167 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G720 MC9, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; 22041219NY/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6856.179 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G720 MC9, Vulkan 1.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; X669G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6696.109 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-T880"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; XT2153-1U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6667.169 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 508"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; 2201122G/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.6034.228 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 720, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; CHL-LX1U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6937.161 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G76 MP12"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; ANA-AN00N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6487.152 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G715 MC11, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; SM-F926BU) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6976.218 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 643, Vulkan 1.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; G6QU3E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6126.106 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Samsung Electronics)",
+    "Unmasked Renderer": "ANGLE (Samsung, Xclipse 920, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2231AU1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6649.148 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 405, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; I2011C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.6354.217 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 610, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; RKY-NX10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6723.143 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G310, Vulkan 1.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; PHN110C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6187.150 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G68 MC4"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; JAD-AL00U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6595.156 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G77 MC11, Vulkan 1.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; RMX3301W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.6276.222 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G710 MC9, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; TB-J706FC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.6907.218 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G78 MP24"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; XQ-DQ72/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.6149.172 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 505"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; 2201116PGU) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6378.123 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G77 MC9, Vulkan 1.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; CH6n) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6890.191 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G510"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; A001C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.6857.160 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 642L"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; AD10N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6836.205 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-T760, Vulkan 1.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; 2201117TYU) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.6572.218 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-T830"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; XT2313-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6818.176 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 750, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; RMX3851U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6583.235 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 430"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; G8V0UW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.6908.146 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G57 MC1"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; TB-X606FU) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.6059.173 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 643, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; V2318W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.6210.173 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 690"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; LM-F100VMC) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.7100.179 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 725"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; M1991W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.7073.166 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 530, Vulkan 1.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; TB-128FU/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6242.249 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 508"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; M2101K6G0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6681.195 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 540"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; 2210132CG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6958.193 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 618, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; LM-Q730) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6952.244 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 650"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; M2011K2GY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6640.171 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 740, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; AD10C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.6570.202 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-T760, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; SO-51B/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7087.122 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 740, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; RMX3521U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.7012.171 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G720 MC9"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; 2210132GU1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.6532.203 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 710, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; V2303F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6921.126 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G310, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; I2212U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6338.186 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 540, Vulkan 1.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; PHN110/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.6182.109 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G78 MP24, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; I2126U1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.6777.216 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 510, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; TB-128FUY) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.6909.225 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G31 MP2, Vulkan 1.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; M2091G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6051.149 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 642, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; SM-S918B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6086.245 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Samsung Electronics)",
+    "Unmasked Renderer": "ANGLE (Samsung, Xclipse 920, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; SM-G990BF) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.6184.111 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Samsung Electronics)",
+    "Unmasked Renderer": "ANGLE (Samsung, Xclipse 930, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; 2210132CE) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6859.101 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 702, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; EBG-AN00E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6812.194 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G72 MP18"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; LH7nW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.6570.187 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G57 MC2, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; M1981E) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.6604.246 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 830, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; I2212W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6520.136 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 642"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; SO-51BN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6253.107 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 405, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; RMX3301) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.6058.219 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G51 MP4"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; CPH2205U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6662.145 Mobile Safari/537.36",
+    "Unmasked Vendor": "ARM",
+    "Unmasked Renderer": "Mali-G76 MP10"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; 2304FPN6DGW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6508.162 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 306"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; V2111AU) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6259.120 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G710 MP10, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; M2291Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.6702.146 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 642, Vulkan 1.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; XQ-EC54C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6034.168 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 512, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; X695D/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.6925.187 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G68 MC4, OpenGL ES 3.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; X688BG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6820.133 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G76 MP10, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; V2307A/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6764.158 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 618, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; 23090RA98GU) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.6279.223 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G71 MP8, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; XT2153-1N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.6979.102 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 618, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; YAL-L210) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6842.207 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-T820, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; XQ-DQ72Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.7086.172 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 680, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; M2391F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.6708.128 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 735"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; 2107113SG/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6256.205 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 608, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; I2220F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6746.186 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 630, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; 23049PCD8IN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.6717.102 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G72 MP3, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; RMX3851Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.7028.210 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 685, Vulkan 1.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 12; V2220AG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6261.160 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 680"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; SM-A736B/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.6819.181 Mobile Safari/537.36",
+    "Unmasked Vendor": "Samsung Electronics",
+    "Unmasked Renderer": "Xclipse 930"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; RMX3241/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6532.192 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 612"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 15; M2091C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.6693.125 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 508, Vulkan 1.3)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; XT2335-1/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6143.171 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 530, Vulkan 1.1)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; 23127PN0CGW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.6500.230 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 644"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; M2081) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6845.178 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 620"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 17; CET-AL00/DS) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6060.115 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-T880, OpenGL ES 3.2)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; X6811D0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.6207.234 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (ARM)",
+    "Unmasked Renderer": "ANGLE (ARM, Mali-G68 MC4, Vulkan 1.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 14; M1991Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.6341.246 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 510"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; V2217AF) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.7077.146 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 725"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 11; XT2313-1Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6528.243 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 420, OpenGL ES 3.0)"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 16; XT2331-1.2G) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.6208.126 Mobile Safari/537.36",
+    "Unmasked Vendor": "Qualcomm",
+    "Unmasked Renderer": "Adreno (TM) 420"
+  },
+  {
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; 23122PCD1GU) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6848.139 Mobile Safari/537.36",
+    "Unmasked Vendor": "Google Inc. (Qualcomm)",
+    "Unmasked Renderer": "ANGLE (Qualcomm, Adreno (TM) 650, Vulkan 1.1)"
+  }
+]
